@@ -1,0 +1,4080 @@
+# Copyright (C) 2016 ApusTheme
+# This file is distributed under the GNU General Public License v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Ogami 1.21\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/ogami\n"
+"POT-Creation-Date: 2020-07-09 09:02:43+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: 404.php:33
+msgid "Go to homepage"
+msgstr ""
+
+#: comments.php:26 content-search.php:20
+#: template-posts/loop/inner-grid-v3.php:16
+#: template-posts/loop/inner-grid.php:28 template-posts/loop/inner-list.php:27
+#: template-posts/single/inner.php:39
+msgid "0 Comments"
+msgstr ""
+
+#: comments.php:26 content-search.php:20
+#: template-posts/loop/inner-grid-v3.php:16
+#: template-posts/loop/inner-grid.php:28 template-posts/loop/inner-list.php:27
+#: template-posts/single/inner.php:39
+msgid "1 Comment"
+msgstr ""
+
+#: comments.php:26 content-search.php:20
+#: template-posts/loop/inner-grid-v3.php:16
+#: template-posts/loop/inner-grid.php:28 template-posts/loop/inner-list.php:27
+#: template-posts/single/inner.php:39
+msgid "% Comments"
+msgstr ""
+
+#: comments.php:40
+msgid "Comments are closed."
+msgstr ""
+
+#: comments.php:46
+msgid "Leave a Comment"
+msgstr ""
+
+#: comments.php:48
+msgid "Your Comment"
+msgstr ""
+
+#: comments.php:54
+msgid "Name*"
+msgstr ""
+
+#: comments.php:57
+msgid "Email*"
+msgstr ""
+
+#: comments.php:60
+msgid "Website"
+msgstr ""
+
+#: comments.php:64
+msgid "Submit Comment"
+msgstr ""
+
+#: comments.php:65
+msgid "Your email address will not be published."
+msgstr ""
+
+#: content-search.php:25 template-posts/loop/inner-grid.php:33
+#: template-posts/loop/inner-list.php:32
+msgid "Read More"
+msgstr ""
+
+#: dokan/store-lists-loop.php:9 woocommerce/single-product/meta.php:35
+msgid "N/A"
+msgstr ""
+
+#: dokan/store-lists-loop.php:24 inc/classes/megamenu.php:123
+#: inc/classes/mobilemenu.php:114 inc/classes/mobileverticalmenu.php:114
+#: inc/template-tags.php:49 template-posts/loop/inner-grid.php:7
+msgid "Featured"
+msgstr ""
+
+#: dokan/store-lists-loop.php:34
+msgid "Rated %s out of 5"
+msgstr ""
+
+#: dokan/store-lists-loop.php:61
+msgid "Visit Store"
+msgstr ""
+
+#: dokan/store-lists-loop.php:84
+msgid "&larr; Previous"
+msgstr ""
+
+#: dokan/store-lists-loop.php:85
+msgid "Next &rarr;"
+msgstr ""
+
+#: dokan/store-lists-loop.php:111
+msgid "No vendor found!"
+msgstr ""
+
+#: dokan/store-lists.php:11
+msgid "Search Results for: %s"
+msgstr ""
+
+#: dokan/store-lists.php:17
+msgid "Search Vendor &hellip;"
+msgstr ""
+
+#: dokan/store-lists.php:17
+msgid "Search seller &hellip;"
+msgstr ""
+
+#: dokan/store-reviews.php:55
+msgid "Seller Review"
+msgstr ""
+
+#: dokan/store-reviews.php:60
+msgid "No Results Found"
+msgstr ""
+
+#: dokan/store-reviews.php:79 woocommerce/single-product/review.php:28
+msgid "Rated %d out of 5"
+msgstr ""
+
+#: dokan/store-reviews.php:80 woocommerce/single-product/review.php:29
+msgid "out of 5"
+msgstr ""
+
+#: dokan/store-reviews.php:136 dokan/store-reviews.php:183
+#: dokan/store-toc.php:75 dokan/store-toc.php:119 dokan/store.php:83
+#: dokan/store.php:133
+msgid "Store Category"
+msgstr ""
+
+#: dokan/store-reviews.php:139 dokan/store-reviews.php:186
+#: dokan/store-toc.php:77 dokan/store-toc.php:121 dokan/store.php:86
+#: dokan/store.php:136
+msgid "Store Location"
+msgstr ""
+
+#: dokan/store-reviews.php:143 dokan/store-reviews.php:190
+#: dokan/store-toc.php:80 dokan/store-toc.php:124 dokan/store.php:94
+#: dokan/store.php:140
+msgid "Contact Vendor"
+msgstr ""
+
+#: dokan/store-toc.php:43
+msgid "Terms And Conditions"
+msgstr ""
+
+#: dokan/store.php:58
+msgid "No products were found of this vendor!"
+msgstr ""
+
+#: dokan/store.php:90
+msgid "Store Time"
+msgstr ""
+
+#: footer-mobile.php:11 inc/functions-frontend.php:201
+#: inc/samples/sample-data.php:10
+msgid "Home"
+msgstr ""
+
+#: footer-mobile.php:19 searchform.php:13 widgets/search.php:17
+msgid "Search"
+msgstr ""
+
+#: footer-mobile.php:29
+msgid "Cart"
+msgstr ""
+
+#: footer-mobile.php:38 headers/mobile/offcanvas-menu.php:26
+#: headers/mobile/offcanvas-menu.php:37 woocommerce/checkout/thankyou.php:63
+msgid "My Account"
+msgstr ""
+
+#: footer-mobile.php:49
+msgid "More"
+msgstr ""
+
+#: footer.php:29
+msgid "&copy; %s - Ogami. All Rights Reserved. <br/> Powered by <a href=\"//apusthemes.com\">ApusThemes</a>"
+msgstr ""
+
+#: functions.php:79
+msgid "Primary Menu"
+msgstr ""
+
+#: functions.php:80
+msgid "Vertical Menu"
+msgstr ""
+
+#: functions.php:81
+msgid "My Account Menu"
+msgstr ""
+
+#. Translators: If there are characters in your language that are not supported
+#. by Montserrat, translate this to 'off'. Do not translate into your own
+#. language.
+
+#: functions.php:146
+msgctxt "Poppins font: on or off"
+msgid "on"
+msgstr ""
+
+#: functions.php:147
+msgctxt "Lora font: on or off"
+msgid "on"
+msgstr ""
+
+#: functions.php:231
+msgid "Days"
+msgstr ""
+
+#: functions.php:232
+msgid "Hrs"
+msgstr ""
+
+#: functions.php:233
+msgid "Mins"
+msgstr ""
+
+#: functions.php:234
+msgid "Secs"
+msgstr ""
+
+#: functions.php:251
+msgid "Previous"
+msgstr ""
+
+#: functions.php:252
+msgid "Next"
+msgstr ""
+
+#: functions.php:325
+msgid "Sidebar Default"
+msgstr ""
+
+#: functions.php:327
+msgid "Add widgets here to appear in your Sidebar."
+msgstr ""
+
+#: functions.php:334
+msgid "Topbar Right"
+msgstr ""
+
+#: functions.php:336
+msgid "Add widgets here to appear in your Topbar Right."
+msgstr ""
+
+#: functions.php:344
+msgid "Blog sidebar"
+msgstr ""
+
+#: functions.php:346 functions.php:356 functions.php:366
+msgid "Add widgets here to appear in your sidebar."
+msgstr ""
+
+#: functions.php:354
+msgid "Shop Sidebar"
+msgstr ""
+
+#: functions.php:364
+msgid "Popup Newsletter"
+msgstr ""
+
+#: functions.php:378
+msgid "Apus Framework For Themes"
+msgstr ""
+
+#: functions.php:385
+msgid "Elementor Page Builder"
+msgstr ""
+
+#: functions.php:391 inc/vendors/elementor/widgets/revslider.php:45
+msgid "Revolution Slider"
+msgstr ""
+
+#: functions.php:398
+msgid "Cmb2"
+msgstr ""
+
+#: functions.php:404
+msgid "MailChimp for WordPress"
+msgstr ""
+
+#: functions.php:410
+msgid "Contact Form 7"
+msgstr ""
+
+#: functions.php:417
+msgid "Woocommerce"
+msgstr ""
+
+#: functions.php:423
+msgid "WooCommerce Variation Swatches"
+msgstr ""
+
+#: functions.php:429
+msgid "YITH WooCommerce Compare"
+msgstr ""
+
+#: functions.php:435
+msgid "YITH WooCommerce Wishlist"
+msgstr ""
+
+#: headers/default.php:42 headers/mobile/header-mobile.php:42
+#: template-parts/offcanvas-main-menu.php:13
+msgid "View Your Wishlist"
+msgstr ""
+
+#: headers/mobile/header-mobile.php:63
+msgid "All Departments"
+msgstr ""
+
+#: headers/mobile/offcanvas-menu.php:5 inc/functions-frontend.php:529
+#: inc/functions-frontend.php:542
+msgid "Close"
+msgstr ""
+
+#: headers/mobile/offcanvas-menu.php:29
+#: inc/vendors/elementor/header_widgets/user_info.php:132
+msgid "Sign in"
+msgstr ""
+
+#: headers/mobile/offcanvas-menu.php:29
+#: inc/vendors/elementor/header_widgets/user_info.php:132
+#: template-parts/login.php:2 woocommerce/myaccount/form-login.php:32
+msgid "Login"
+msgstr ""
+
+#: headers/mobile/offcanvas-menu.php:30 template-parts/login.php:36
+#: woocommerce/myaccount/form-login.php:77
+#: woocommerce/myaccount/form-login.php:114
+msgid "Register"
+msgstr ""
+
+#: inc/classes/megamenu.php:115 inc/classes/mobilemenu.php:106
+#: inc/classes/mobileverticalmenu.php:106
+msgid "New"
+msgstr ""
+
+#: inc/classes/megamenu.php:119 inc/classes/mobilemenu.php:110
+#: inc/classes/mobileverticalmenu.php:110
+msgid "Hot"
+msgstr ""
+
+#: inc/customizer.php:32
+msgid "Base Color Scheme"
+msgstr ""
+
+#: inc/customizer.php:47
+msgid "Header and Sidebar Text Color"
+msgstr ""
+
+#: inc/customizer.php:48 inc/customizer.php:64 inc/customizer.php:69
+msgid "Applied to the header on small screens and the sidebar on wide screens."
+msgstr ""
+
+#: inc/customizer.php:63
+msgid "Header and Sidebar Background Color"
+msgstr ""
+
+#: inc/customizer.php:118 inc/vendors/elementor/widgets/brands.php:93
+#: inc/vendors/elementor/widgets/heading.php:150
+#: inc/vendors/elementor/widgets/mailchimp.php:48
+#: inc/vendors/elementor/widgets/nav_menu.php:68
+#: inc/vendors/elementor/widgets/popup_video.php:78
+#: inc/vendors/elementor/widgets/posts.php:58
+#: inc/vendors/elementor/widgets/posts.php:78
+#: inc/vendors/elementor/widgets/testimonials.php:107
+#: inc/widgets/custom_menu.php:40
+msgid "Default"
+msgstr ""
+
+#: inc/customizer.php:129 inc/vendors/elementor/widgets/brands.php:94
+msgid "Dark"
+msgstr ""
+
+#: inc/customizer.php:140
+msgid "Yellow"
+msgstr ""
+
+#: inc/customizer.php:151
+msgid "Pink"
+msgstr ""
+
+#: inc/customizer.php:162
+msgid "Purple"
+msgstr ""
+
+#: inc/customizer.php:173
+msgid "Blue"
+msgstr ""
+
+#: inc/functions-frontend.php:37
+msgid " / By: "
+msgstr ""
+
+#: inc/functions-frontend.php:60
+msgid "by:"
+msgstr ""
+
+#: inc/functions-frontend.php:85
+msgid "0 comments"
+msgstr ""
+
+#: inc/functions-frontend.php:85
+msgid "1 comment"
+msgstr ""
+
+#: inc/functions-frontend.php:85
+msgid "% comments"
+msgstr ""
+
+#: inc/functions-frontend.php:97
+msgid "Tags: "
+msgstr ""
+
+#: inc/functions-frontend.php:153 inc/functions-frontend.php:155
+#: inc/functions-frontend.php:288
+msgid "The Blogs"
+msgstr ""
+
+#: inc/functions-frontend.php:166
+#: inc/vendors/redux-framework/redux-config.php:276
+#: inc/vendors/redux-framework/redux-config.php:381
+msgid "Blog"
+msgstr ""
+
+#: inc/functions-frontend.php:180
+msgid "Search results for \""
+msgstr ""
+
+#: inc/functions-frontend.php:182
+msgid "Posts tagged \""
+msgstr ""
+
+#: inc/functions-frontend.php:188 inc/functions-frontend.php:286
+msgid "Error 404"
+msgstr ""
+
+#: inc/functions-frontend.php:278
+msgid "Search results for \"%s\""
+msgstr ""
+
+#: inc/functions-frontend.php:280
+msgid "Posts tagged \"%s\""
+msgstr ""
+
+#: inc/functions-frontend.php:284
+msgid "Articles posted by "
+msgstr ""
+
+#: inc/functions-frontend.php:377 inc/functions-frontend.php:429
+msgid "< Prev"
+msgstr ""
+
+#: inc/functions-frontend.php:378 inc/functions-frontend.php:430
+msgid "Next >"
+msgstr ""
+
+#: inc/functions-frontend.php:385
+msgid "Posts navigation"
+msgstr ""
+
+#: inc/functions-frontend.php:407
+msgid "Post navigation"
+msgstr ""
+
+#: inc/functions-frontend.php:411
+msgid "Published In"
+msgstr ""
+
+#: inc/functions-frontend.php:413
+msgid "Previous Post"
+msgstr ""
+
+#: inc/functions-frontend.php:414
+msgid "Next Post"
+msgstr ""
+
+#: inc/functions-frontend.php:553 page.php:26 search.php:21
+msgid "Show Sidebar"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:334
+msgid "Install Required Plugins"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:335
+msgid "Install Plugins"
+msgstr ""
+
+#. translators: %s: plugin name.
+
+#: inc/plugins/class-tgm-plugin-activation.php:337
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#. translators: %s: plugin name.
+
+#: inc/plugins/class-tgm-plugin-activation.php:339
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:340
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#. translators: 1: plugin name(s).
+
+#: inc/plugins/class-tgm-plugin-activation.php:377
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:382
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:387
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:392
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:393
+#: inc/plugins/class-tgm-plugin-activation.php:917
+#: inc/plugins/class-tgm-plugin-activation.php:2623
+#: inc/plugins/class-tgm-plugin-activation.php:3670
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:394
+#: inc/plugins/class-tgm-plugin-activation.php:3249
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:395
+#: inc/plugins/class-tgm-plugin-activation.php:3042
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#. translators: 1: plugin name.
+
+#: inc/plugins/class-tgm-plugin-activation.php:397
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#. translators: 1: plugin name.
+
+#: inc/plugins/class-tgm-plugin-activation.php:399
+msgid "Plugin not activated. A higher version of %s is needed for this theme. Please update the plugin."
+msgstr ""
+
+#. translators: 1: dashboard link.
+
+#: inc/plugins/class-tgm-plugin-activation.php:401
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:402
+msgid "Dismiss this notice"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:403
+msgid "There are one or more required or recommended plugins to install, update or activate."
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:404
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:607
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:608
+msgid "Update Required"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:725
+msgid "Set the parent_slug config variable instead."
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:1024
+msgid "The remote plugin package does not contain a folder with the desired slug and renaming did not work."
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:1024
+#: inc/plugins/class-tgm-plugin-activation.php:1027
+msgid "Please contact the plugin provider and ask them to package their plugin according to the WordPress guidelines."
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:1027
+msgid "The remote plugin package consists of more than one file, but the files are not packaged in a folder."
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:1211
+#: inc/plugins/class-tgm-plugin-activation.php:3038
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+#. translators: %s: version number
+
+#: inc/plugins/class-tgm-plugin-activation.php:2072
+msgid "TGMPA v%s"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:2363
+msgid "Required"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:2366
+msgid "Recommended"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:2382
+msgid "WordPress Repository"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:2385
+msgid "External Source"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:2388
+msgid "Pre-Packaged"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:2405
+msgid "Not Installed"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:2409
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:2411
+msgid "Active"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:2417
+msgid "Required Update not Available"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:2420
+msgid "Requires Update"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:2423
+msgid "Update recommended"
+msgstr ""
+
+#. translators: 1: install status, 2: update status
+
+#: inc/plugins/class-tgm-plugin-activation.php:2432
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#. translators: 1: number of plugins.
+
+#: inc/plugins/class-tgm-plugin-activation.php:2478
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+
+#: inc/plugins/class-tgm-plugin-activation.php:2482
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+
+#: inc/plugins/class-tgm-plugin-activation.php:2486
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+
+#: inc/plugins/class-tgm-plugin-activation.php:2490
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:2572
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:2580
+msgid "Installed version:"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:2588
+msgid "Minimum required version:"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:2600
+msgid "Available version:"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:2623
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:2637
+msgid "Plugin"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:2638
+msgid "Source"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:2639
+msgid "Type"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:2643
+msgid "Version"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:2644
+#: woocommerce/myaccount/my-orders.php:36
+#: woocommerce/myaccount/my-orders.php:57
+msgid "Status"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+
+#: inc/plugins/class-tgm-plugin-activation.php:2693
+msgid "Install %2$s"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+
+#: inc/plugins/class-tgm-plugin-activation.php:2698
+msgid "Update %2$s"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+
+#: inc/plugins/class-tgm-plugin-activation.php:2704
+msgid "Activate %2$s"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:2774
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:2807
+msgid "Install"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:2813
+msgid "Update"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:2816
+msgid "Activate"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:2847
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:2849
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:2890
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:2892
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:2998
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:3024
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:3248
+msgid "Plugin activation failed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+
+#: inc/plugins/class-tgm-plugin-activation.php:3588
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#. translators: 1: plugin name, 2: error message.
+
+#: inc/plugins/class-tgm-plugin-activation.php:3591
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#. translators: 1: plugin name.
+
+#: inc/plugins/class-tgm-plugin-activation.php:3593
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:3597
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#. translators: 1: plugin name.
+
+#: inc/plugins/class-tgm-plugin-activation.php:3599
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:3599
+#: inc/plugins/class-tgm-plugin-activation.php:3607
+msgid "Show Details"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:3599
+#: inc/plugins/class-tgm-plugin-activation.php:3607
+msgid "Hide Details"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:3600
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+
+#: inc/plugins/class-tgm-plugin-activation.php:3602
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:3605
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#. translators: 1: plugin name.
+
+#: inc/plugins/class-tgm-plugin-activation.php:3607
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:3608
+msgid "All installations have been completed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+
+#: inc/plugins/class-tgm-plugin-activation.php:3610
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/template-tags.php:23
+msgid "Comment navigation"
+msgstr ""
+
+#: inc/template-tags.php:26
+msgid "Older Comments"
+msgstr ""
+
+#: inc/template-tags.php:30
+msgid "Newer Comments"
+msgstr ""
+
+#: inc/template-tags.php:55
+msgctxt "Used before post format."
+msgid "Format"
+msgstr ""
+
+#: inc/template-tags.php:76
+msgctxt "Used before publish date."
+msgid "Posted on"
+msgstr ""
+
+#: inc/template-tags.php:85
+msgctxt "Used before post author name."
+msgid "Author"
+msgstr ""
+
+#: inc/template-tags.php:91 inc/template-tags.php:99
+msgctxt "Used between list items, there is a space after the comma."
+msgid ", "
+msgstr ""
+
+#: inc/template-tags.php:94
+msgctxt "Used before category names."
+msgid "Categories"
+msgstr ""
+
+#: inc/template-tags.php:102
+msgctxt "Used before tag names."
+msgid "Tags"
+msgstr ""
+
+#: inc/template-tags.php:113
+msgctxt "Used before full size attachment link."
+msgid "Full size"
+msgstr ""
+
+#. translators: %s: post title
+
+#: inc/template-tags.php:123
+msgid "Leave a comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr ""
+
+#: inc/template-tags.php:225
+msgid "/ By: "
+msgstr ""
+
+#. translators: %s: Name of current post
+
+#: inc/template-tags.php:261
+msgid "Continue reading %s"
+msgstr ""
+
+#: inc/vendors/cmb2/page.php:13 inc/vendors/cmb2/page.php:14
+msgid "Global Setting"
+msgstr ""
+
+#: inc/vendors/cmb2/page.php:19
+msgid "Select Layout"
+msgstr ""
+
+#: inc/vendors/cmb2/page.php:23
+msgid "Main Content Only"
+msgstr ""
+
+#: inc/vendors/cmb2/page.php:24
+#: inc/vendors/woocommerce/functions-redux-configs.php:193
+#: inc/vendors/woocommerce/functions-redux-configs.php:194
+msgid "Left Sidebar - Main Content"
+msgstr ""
+
+#: inc/vendors/cmb2/page.php:25
+#: inc/vendors/woocommerce/functions-redux-configs.php:198
+#: inc/vendors/woocommerce/functions-redux-configs.php:199
+msgid "Main Content - Right Sidebar"
+msgstr ""
+
+#: inc/vendors/cmb2/page.php:31 inc/vendors/dokan/functions.php:59
+#: inc/vendors/redux-framework/redux-config.php:332
+#: inc/vendors/redux-framework/redux-config.php:412
+#: inc/vendors/woocommerce/functions-redux-configs.php:177
+#: inc/vendors/woocommerce/functions-redux-configs.php:342
+msgid "Is Full Width?"
+msgstr ""
+
+#: inc/vendors/cmb2/page.php:34 inc/vendors/cmb2/page.php:55
+#: inc/vendors/cmb2/page.php:84
+msgid "No"
+msgstr ""
+
+#: inc/vendors/cmb2/page.php:35 inc/vendors/cmb2/page.php:56
+#: inc/vendors/cmb2/page.php:85
+msgid "Yes"
+msgstr ""
+
+#: inc/vendors/cmb2/page.php:41
+msgid "Left Sidebar"
+msgstr ""
+
+#: inc/vendors/cmb2/page.php:47
+msgid "Right Sidebar"
+msgstr ""
+
+#: inc/vendors/cmb2/page.php:53
+msgid "Show Breadcrumb?"
+msgstr ""
+
+#: inc/vendors/cmb2/page.php:63
+msgid "Breadcrumb Background Color"
+msgstr ""
+
+#: inc/vendors/cmb2/page.php:68
+msgid "Breadcrumb Background Image"
+msgstr ""
+
+#: inc/vendors/cmb2/page.php:73
+#: inc/vendors/redux-framework/redux-config.php:108
+msgid "Header Layout Type"
+msgstr ""
+
+#: inc/vendors/cmb2/page.php:74 inc/vendors/cmb2/page.php:82
+#: inc/vendors/redux-framework/redux-config.php:109
+msgid "Choose a header for your website."
+msgstr ""
+
+#: inc/vendors/cmb2/page.php:81
+msgid "Header Transparent"
+msgstr ""
+
+#: inc/vendors/cmb2/page.php:92
+#: inc/vendors/redux-framework/redux-config.php:206
+msgid "Footer Layout Type"
+msgstr ""
+
+#: inc/vendors/cmb2/page.php:93
+#: inc/vendors/redux-framework/redux-config.php:207
+msgid "Choose a footer for your website."
+msgstr ""
+
+#: inc/vendors/cmb2/page.php:100
+msgid "Extra Class"
+msgstr ""
+
+#: inc/vendors/cmb2/page.php:101
+msgid "If you wish to style particular content element differently, then use this field to add a class name and then refer to it in your css file."
+msgstr ""
+
+#: inc/vendors/cmb2/page.php:107
+msgid "Display Settings"
+msgstr ""
+
+#: inc/vendors/cmb2/product.php:8
+msgid "Review Video"
+msgstr ""
+
+#: inc/vendors/cmb2/product.php:11
+msgid "You can enter a video youtube or vimeo"
+msgstr ""
+
+#: inc/vendors/cmb2/product.php:17
+msgid "More Information"
+msgstr ""
+
+#: inc/vendors/dokan/functions.php:7
+msgid "Store Sidebar"
+msgstr ""
+
+#: inc/vendors/dokan/functions.php:28
+msgid "Dokan Store Layout"
+msgstr ""
+
+#: inc/vendors/dokan/functions.php:29
+#: inc/vendors/woocommerce/functions-redux-configs.php:319
+msgid "Select the layout you want to apply on your Single Product Page."
+msgstr ""
+
+#: inc/vendors/dokan/functions.php:32 inc/vendors/dokan/functions.php:33
+#: inc/vendors/redux-framework/redux-config.php:312
+#: inc/vendors/redux-framework/redux-config.php:313
+#: inc/vendors/redux-framework/redux-config.php:392
+#: inc/vendors/redux-framework/redux-config.php:393
+#: inc/vendors/woocommerce/functions-redux-configs.php:322
+#: inc/vendors/woocommerce/functions-redux-configs.php:323
+msgid "Main Only"
+msgstr ""
+
+#: inc/vendors/dokan/functions.php:37 inc/vendors/dokan/functions.php:38
+#: inc/vendors/redux-framework/redux-config.php:317
+#: inc/vendors/redux-framework/redux-config.php:318
+#: inc/vendors/redux-framework/redux-config.php:397
+#: inc/vendors/redux-framework/redux-config.php:398
+#: inc/vendors/woocommerce/functions-redux-configs.php:327
+#: inc/vendors/woocommerce/functions-redux-configs.php:328
+msgid "Left - Main Sidebar"
+msgstr ""
+
+#: inc/vendors/dokan/functions.php:42 inc/vendors/dokan/functions.php:43
+#: inc/vendors/redux-framework/redux-config.php:322
+#: inc/vendors/redux-framework/redux-config.php:323
+#: inc/vendors/redux-framework/redux-config.php:402
+#: inc/vendors/redux-framework/redux-config.php:403
+#: inc/vendors/woocommerce/functions-redux-configs.php:332
+#: inc/vendors/woocommerce/functions-redux-configs.php:333
+msgid "Main - Right Sidebar"
+msgstr ""
+
+#: inc/vendors/dokan/functions.php:52
+#: inc/vendors/woocommerce/functions-redux-configs.php:115
+msgid "Product Columns"
+msgstr ""
+
+#: inc/vendors/dokan/functions.php:69
+msgid "Dokan Store Left Sidebar"
+msgstr ""
+
+#: inc/vendors/dokan/functions.php:70
+#: inc/vendors/redux-framework/redux-config.php:339
+#: inc/vendors/redux-framework/redux-config.php:419
+#: inc/vendors/woocommerce/functions-redux-configs.php:209
+#: inc/vendors/woocommerce/functions-redux-configs.php:349
+msgid "Choose a sidebar for left sidebar."
+msgstr ""
+
+#: inc/vendors/dokan/functions.php:77
+msgid "Dokan Store Right Sidebar"
+msgstr ""
+
+#: inc/vendors/dokan/functions.php:78
+#: inc/vendors/redux-framework/redux-config.php:346
+#: inc/vendors/redux-framework/redux-config.php:426
+#: inc/vendors/woocommerce/functions-redux-configs.php:216
+#: inc/vendors/woocommerce/functions-redux-configs.php:356
+msgid "Choose a sidebar for right sidebar."
+msgstr ""
+
+#: inc/vendors/dokan/functions.php:83
+msgid "Dokan Store Sidebar"
+msgstr ""
+
+#: inc/vendors/elementor/functions.php:30
+msgid "Ogami Elements"
+msgstr ""
+
+#: inc/vendors/elementor/functions.php:38
+msgid "Ogami Header Elements"
+msgstr ""
+
+#: inc/vendors/elementor/header_widgets/logo.php:16
+msgid "Apus Header Logo"
+msgstr ""
+
+#: inc/vendors/elementor/header_widgets/logo.php:28
+#: inc/vendors/elementor/header_widgets/primary_menu.php:28
+#: inc/vendors/elementor/header_widgets/search_form.php:28
+#: inc/vendors/elementor/header_widgets/user_info.php:28
+#: inc/vendors/elementor/header_widgets/vertical_menu.php:28
+#: inc/vendors/elementor/widgets/banner.php:95
+#: inc/vendors/elementor/widgets/brands.php:28
+#: inc/vendors/elementor/widgets/call_to_action.php:28
+#: inc/vendors/elementor/widgets/countdown.php:53
+#: inc/vendors/elementor/widgets/features_box.php:106
+#: inc/vendors/elementor/widgets/popup_video.php:32
+#: inc/vendors/elementor/widgets/popup_video.php:48
+#: inc/vendors/elementor/widgets/process.php:28
+#: inc/vendors/elementor/widgets/social_links.php:32
+#: inc/vendors/elementor/widgets/testimonials.php:32
+#: inc/vendors/elementor/widgets/testimonials.php:41
+#: inc/vendors/elementor/woo_header_widgets/woo_header_info.php:28
+#: inc/vendors/elementor/woo_widgets/woo_category_banner.php:32
+#: inc/vendors/elementor/woo_widgets/woo_product_tabs.php:32
+#: inc/vendors/elementor/woo_widgets/woo_products.php:32
+#: inc/vendors/elementor/woo_widgets/woo_products_deal.php:31
+msgid "Content"
+msgstr ""
+
+#: inc/vendors/elementor/header_widgets/logo.php:36
+#: inc/vendors/elementor/widgets/features_box.php:67
+#: inc/vendors/elementor/widgets/testimonials.php:50
+msgid "Choose Image"
+msgstr ""
+
+#: inc/vendors/elementor/header_widgets/logo.php:59
+#: inc/vendors/elementor/header_widgets/primary_menu.php:36
+#: inc/vendors/elementor/header_widgets/user_info.php:59
+#: inc/vendors/elementor/widgets/countdown.php:71
+#: inc/vendors/elementor/widgets/features_box.php:175
+#: inc/vendors/elementor/widgets/heading.php:183
+#: inc/vendors/elementor/widgets/process.php:103
+#: inc/vendors/elementor/widgets/social_links.php:78
+#: inc/vendors/elementor/woo_header_widgets/woo_header_info.php:71
+msgid "Alignment"
+msgstr ""
+
+#: inc/vendors/elementor/header_widgets/logo.php:63
+#: inc/vendors/elementor/header_widgets/primary_menu.php:40
+#: inc/vendors/elementor/header_widgets/user_info.php:63
+#: inc/vendors/elementor/widgets/banner.php:59
+#: inc/vendors/elementor/widgets/banner.php:138
+#: inc/vendors/elementor/widgets/countdown.php:75
+#: inc/vendors/elementor/widgets/features_box.php:179
+#: inc/vendors/elementor/widgets/heading.php:187
+#: inc/vendors/elementor/widgets/process.php:107
+#: inc/vendors/elementor/widgets/social_links.php:82
+#: inc/vendors/elementor/woo_header_widgets/woo_header_info.php:75
+#: inc/widgets/vertical_menu.php:54
+msgid "Left"
+msgstr ""
+
+#: inc/vendors/elementor/header_widgets/logo.php:67
+#: inc/vendors/elementor/header_widgets/primary_menu.php:44
+#: inc/vendors/elementor/header_widgets/user_info.php:67
+#: inc/vendors/elementor/widgets/banner.php:63
+#: inc/vendors/elementor/widgets/banner.php:142
+#: inc/vendors/elementor/widgets/countdown.php:79
+#: inc/vendors/elementor/widgets/features_box.php:183
+#: inc/vendors/elementor/widgets/heading.php:191
+#: inc/vendors/elementor/widgets/popup_video.php:79
+#: inc/vendors/elementor/widgets/process.php:111
+#: inc/vendors/elementor/widgets/social_links.php:86
+#: inc/vendors/elementor/woo_header_widgets/woo_header_info.php:79
+#: inc/vendors/elementor/woo_widgets/woo_product_tabs.php:184
+msgid "Center"
+msgstr ""
+
+#: inc/vendors/elementor/header_widgets/logo.php:71
+#: inc/vendors/elementor/header_widgets/primary_menu.php:48
+#: inc/vendors/elementor/header_widgets/user_info.php:71
+#: inc/vendors/elementor/widgets/banner.php:67
+#: inc/vendors/elementor/widgets/banner.php:146
+#: inc/vendors/elementor/widgets/countdown.php:83
+#: inc/vendors/elementor/widgets/features_box.php:187
+#: inc/vendors/elementor/widgets/heading.php:195
+#: inc/vendors/elementor/widgets/process.php:115
+#: inc/vendors/elementor/widgets/social_links.php:90
+#: inc/vendors/elementor/woo_header_widgets/woo_header_info.php:83
+#: inc/vendors/elementor/woo_widgets/woo_product_tabs.php:183
+#: inc/widgets/vertical_menu.php:55
+msgid "Right"
+msgstr ""
+
+#: inc/vendors/elementor/header_widgets/logo.php:84
+#: inc/vendors/elementor/header_widgets/primary_menu.php:61
+#: inc/vendors/elementor/header_widgets/search_form.php:93
+#: inc/vendors/elementor/header_widgets/user_info.php:36
+#: inc/vendors/elementor/header_widgets/vertical_menu.php:62
+#: inc/vendors/elementor/widgets/banner.php:191
+#: inc/vendors/elementor/widgets/brands.php:114
+#: inc/vendors/elementor/widgets/call_to_action.php:93
+#: inc/vendors/elementor/widgets/countdown.php:154
+#: inc/vendors/elementor/widgets/features_box.php:205
+#: inc/vendors/elementor/widgets/instagram.php:130
+#: inc/vendors/elementor/widgets/mailchimp.php:58
+#: inc/vendors/elementor/widgets/nav_menu.php:77
+#: inc/vendors/elementor/widgets/popup_video.php:88
+#: inc/vendors/elementor/widgets/posts.php:121
+#: inc/vendors/elementor/widgets/process.php:132
+#: inc/vendors/elementor/widgets/revslider.php:54
+#: inc/vendors/elementor/widgets/social_links.php:114
+#: inc/vendors/elementor/widgets/team.php:116
+#: inc/vendors/elementor/widgets/testimonials.php:117
+#: inc/vendors/elementor/woo_header_widgets/woo_header_info.php:96
+#: inc/vendors/elementor/woo_widgets/woo_category_banner.php:64
+#: inc/vendors/elementor/woo_widgets/woo_product_tabs.php:203
+#: inc/vendors/elementor/woo_widgets/woo_products.php:167
+#: inc/vendors/elementor/woo_widgets/woo_products_deal.php:157
+msgid "Extra class name"
+msgstr ""
+
+#: inc/vendors/elementor/header_widgets/logo.php:86
+#: inc/vendors/elementor/header_widgets/primary_menu.php:63
+#: inc/vendors/elementor/header_widgets/search_form.php:95
+#: inc/vendors/elementor/header_widgets/user_info.php:38
+#: inc/vendors/elementor/header_widgets/vertical_menu.php:64
+#: inc/vendors/elementor/widgets/banner.php:193
+#: inc/vendors/elementor/widgets/brands.php:116
+#: inc/vendors/elementor/widgets/call_to_action.php:95
+#: inc/vendors/elementor/widgets/countdown.php:156
+#: inc/vendors/elementor/widgets/features_box.php:207
+#: inc/vendors/elementor/widgets/instagram.php:132
+#: inc/vendors/elementor/widgets/mailchimp.php:60
+#: inc/vendors/elementor/widgets/nav_menu.php:79
+#: inc/vendors/elementor/widgets/popup_video.php:90
+#: inc/vendors/elementor/widgets/posts.php:123
+#: inc/vendors/elementor/widgets/process.php:134
+#: inc/vendors/elementor/widgets/revslider.php:56
+#: inc/vendors/elementor/widgets/social_links.php:116
+#: inc/vendors/elementor/widgets/team.php:118
+#: inc/vendors/elementor/widgets/testimonials.php:119
+#: inc/vendors/elementor/woo_header_widgets/woo_header_info.php:98
+#: inc/vendors/elementor/woo_widgets/woo_category_banner.php:66
+#: inc/vendors/elementor/woo_widgets/woo_product_tabs.php:205
+#: inc/vendors/elementor/woo_widgets/woo_products.php:169
+#: inc/vendors/elementor/woo_widgets/woo_products_deal.php:159
+msgid "If you wish to style particular content element differently, please add a class name to this field and refer to it in your custom CSS file."
+msgstr ""
+
+#: inc/vendors/elementor/header_widgets/primary_menu.php:16
+msgid "Apus Header Primary Menu"
+msgstr ""
+
+#: inc/vendors/elementor/header_widgets/primary_menu.php:73
+#: inc/vendors/elementor/header_widgets/search_form.php:105
+#: inc/vendors/elementor/header_widgets/user_info.php:86
+#: inc/vendors/elementor/header_widgets/vertical_menu.php:36
+#: inc/vendors/elementor/header_widgets/vertical_menu.php:74
+#: inc/vendors/elementor/widgets/brands.php:37
+#: inc/vendors/elementor/widgets/call_to_action.php:36
+#: inc/vendors/elementor/widgets/countdown.php:36
+#: inc/vendors/elementor/widgets/heading.php:101
+#: inc/vendors/elementor/widgets/heading.php:108
+#: inc/vendors/elementor/widgets/heading.php:224
+#: inc/vendors/elementor/widgets/instagram.php:40
+#: inc/vendors/elementor/widgets/mailchimp.php:36
+#: inc/vendors/elementor/widgets/nav_menu.php:46
+#: inc/vendors/elementor/widgets/nav_menu.php:90
+#: inc/vendors/elementor/widgets/popup_video.php:40
+#: inc/vendors/elementor/widgets/posts.php:34
+#: inc/vendors/elementor/widgets/posts.php:62
+#: inc/vendors/elementor/widgets/process.php:37
+#: inc/vendors/elementor/widgets/social_links.php:126
+#: inc/vendors/elementor/widgets/team.php:128
+#: inc/vendors/elementor/woo_header_widgets/woo_header_info.php:107
+#: inc/vendors/redux-framework/redux-config.php:479
+#: inc/widgets/woo-layered-nav.php:69
+msgid "Title"
+msgstr ""
+
+#: inc/vendors/elementor/header_widgets/primary_menu.php:80
+msgid "Effect Dropdown Menu"
+msgstr ""
+
+#: inc/vendors/elementor/header_widgets/primary_menu.php:83
+msgid "Effect 1"
+msgstr ""
+
+#: inc/vendors/elementor/header_widgets/primary_menu.php:84
+msgid "Effect 2"
+msgstr ""
+
+#: inc/vendors/elementor/header_widgets/primary_menu.php:85
+msgid "Effect 3"
+msgstr ""
+
+#: inc/vendors/elementor/header_widgets/primary_menu.php:93
+msgid "Padding Menu"
+msgstr ""
+
+#: inc/vendors/elementor/header_widgets/primary_menu.php:104
+msgid "Color Menu"
+msgstr ""
+
+#: inc/vendors/elementor/header_widgets/primary_menu.php:115
+msgid "Color Hover Menu"
+msgstr ""
+
+#: inc/vendors/elementor/header_widgets/primary_menu.php:126
+msgid "Color Dropdown Menu"
+msgstr ""
+
+#: inc/vendors/elementor/header_widgets/primary_menu.php:137
+msgid "Color Hover Dropdown Menu"
+msgstr ""
+
+#: inc/vendors/elementor/header_widgets/primary_menu.php:148
+msgid "Background Color Dropdown Menu"
+msgstr ""
+
+#: inc/vendors/elementor/header_widgets/search_form.php:16
+msgid "Apus Header Search Form"
+msgstr ""
+
+#: inc/vendors/elementor/header_widgets/search_form.php:36
+msgid "Show Categories"
+msgstr ""
+
+#: inc/vendors/elementor/header_widgets/search_form.php:39
+#: inc/vendors/elementor/header_widgets/search_form.php:50
+#: inc/vendors/elementor/header_widgets/search_form.php:61
+#: inc/vendors/elementor/header_widgets/search_form.php:72
+#: inc/vendors/elementor/woo_header_widgets/woo_header_info.php:40
+#: inc/vendors/elementor/woo_header_widgets/woo_header_info.php:51
+#: inc/vendors/elementor/woo_widgets/woo_product_tabs.php:153
+#: inc/vendors/elementor/woo_widgets/woo_product_tabs.php:168
+#: inc/vendors/elementor/woo_widgets/woo_product_tabs.php:194
+#: inc/vendors/elementor/woo_widgets/woo_products.php:139
+#: inc/vendors/elementor/woo_widgets/woo_products.php:154
+#: inc/vendors/elementor/woo_widgets/woo_products_deal.php:129
+#: inc/vendors/elementor/woo_widgets/woo_products_deal.php:144
+msgid "Show"
+msgstr ""
+
+#: inc/vendors/elementor/header_widgets/search_form.php:40
+#: inc/vendors/elementor/header_widgets/search_form.php:51
+#: inc/vendors/elementor/header_widgets/search_form.php:62
+#: inc/vendors/elementor/header_widgets/search_form.php:73
+#: inc/vendors/elementor/woo_header_widgets/woo_header_info.php:39
+#: inc/vendors/elementor/woo_header_widgets/woo_header_info.php:50
+#: inc/vendors/elementor/woo_widgets/woo_product_tabs.php:154
+#: inc/vendors/elementor/woo_widgets/woo_product_tabs.php:169
+#: inc/vendors/elementor/woo_widgets/woo_product_tabs.php:195
+#: inc/vendors/elementor/woo_widgets/woo_products.php:140
+#: inc/vendors/elementor/woo_widgets/woo_products.php:155
+#: inc/vendors/elementor/woo_widgets/woo_products_deal.php:130
+#: inc/vendors/elementor/woo_widgets/woo_products_deal.php:145
+msgid "Hide"
+msgstr ""
+
+#: inc/vendors/elementor/header_widgets/search_form.php:47
+msgid "Show Autocomplete Search"
+msgstr ""
+
+#: inc/vendors/elementor/header_widgets/search_form.php:58
+msgid "Show Icon"
+msgstr ""
+
+#: inc/vendors/elementor/header_widgets/search_form.php:69
+msgid "Show text Search"
+msgstr ""
+
+#: inc/vendors/elementor/header_widgets/search_form.php:80
+#: inc/vendors/elementor/widgets/banner.php:164
+#: inc/vendors/elementor/widgets/brands.php:90
+#: inc/vendors/elementor/widgets/countdown.php:140
+#: inc/vendors/elementor/widgets/countdown.php:165
+#: inc/vendors/elementor/widgets/features_box.php:149
+#: inc/vendors/elementor/widgets/features_box.php:217
+#: inc/vendors/elementor/widgets/instagram.php:117
+#: inc/vendors/elementor/widgets/instagram.php:144
+#: inc/vendors/elementor/widgets/mailchimp.php:45
+#: inc/vendors/elementor/widgets/nav_menu.php:65
+#: inc/vendors/elementor/widgets/popup_video.php:75
+#: inc/vendors/elementor/widgets/process.php:145
+#: inc/vendors/elementor/widgets/social_links.php:101
+#: inc/vendors/elementor/widgets/testimonials.php:104
+#: inc/vendors/elementor/woo_widgets/woo_category_banner.php:77
+msgid "Style"
+msgstr ""
+
+#: inc/vendors/elementor/header_widgets/search_form.php:83
+#: inc/vendors/elementor/widgets/banner.php:167
+#: inc/vendors/elementor/widgets/countdown.php:143
+#: inc/vendors/elementor/widgets/instagram.php:120
+msgid "Style 1"
+msgstr ""
+
+#: inc/vendors/elementor/header_widgets/search_form.php:84
+#: inc/vendors/elementor/widgets/banner.php:168
+#: inc/vendors/elementor/widgets/instagram.php:121
+msgid "Style 2"
+msgstr ""
+
+#: inc/vendors/elementor/header_widgets/search_form.php:113
+msgid "Background Color Button"
+msgstr ""
+
+#: inc/vendors/elementor/header_widgets/search_form.php:124
+msgid "Border Color Button"
+msgstr ""
+
+#: inc/vendors/elementor/header_widgets/search_form.php:135
+msgid "Background Hover Color Button"
+msgstr ""
+
+#: inc/vendors/elementor/header_widgets/search_form.php:146
+msgid "Border Hover Color Button"
+msgstr ""
+
+#: inc/vendors/elementor/header_widgets/search_form.php:181
+#: template-parts/productsearchform-footer-mobile.php:5
+#: template-parts/productsearchform.php:18
+msgid "What do you need?"
+msgstr ""
+
+#: inc/vendors/elementor/header_widgets/search_form.php:186
+#: template-parts/productsearchform.php:23
+msgid "SEARCH"
+msgstr ""
+
+#: inc/vendors/elementor/header_widgets/user_info.php:16
+msgid "Apus Header User Info"
+msgstr ""
+
+#: inc/vendors/elementor/header_widgets/user_info.php:45
+msgid "Login Form"
+msgstr ""
+
+#: inc/vendors/elementor/header_widgets/user_info.php:48
+msgid "Link To Page"
+msgstr ""
+
+#: inc/vendors/elementor/header_widgets/user_info.php:49
+msgid "Popup"
+msgstr ""
+
+#: inc/vendors/elementor/header_widgets/user_info.php:50
+#: inc/vendors/elementor/woo_header_widgets/woo_header_info.php:62
+msgid "Dropdown Box"
+msgstr ""
+
+#: inc/vendors/elementor/header_widgets/user_info.php:94
+msgid "Color Icon"
+msgstr ""
+
+#: inc/vendors/elementor/header_widgets/vertical_menu.php:16
+msgid "Apus Header Vertical Menu"
+msgstr ""
+
+#: inc/vendors/elementor/header_widgets/vertical_menu.php:48
+msgid "Show menu condition"
+msgstr ""
+
+#: inc/vendors/elementor/header_widgets/vertical_menu.php:51
+msgid "Always"
+msgstr ""
+
+#: inc/vendors/elementor/header_widgets/vertical_menu.php:52
+msgid "In home page"
+msgstr ""
+
+#: inc/vendors/elementor/header_widgets/vertical_menu.php:53
+msgid "When hover"
+msgstr ""
+
+#: inc/vendors/elementor/header_widgets/vertical_menu.php:82
+msgid "Background Color Title"
+msgstr ""
+
+#: inc/vendors/elementor/header_widgets/vertical_menu.php:93
+#: inc/vendors/elementor/widgets/features_box.php:225
+msgid "Icon Color"
+msgstr ""
+
+#: inc/vendors/elementor/header_widgets/vertical_menu.php:104
+msgid "Link Color"
+msgstr ""
+
+#: inc/vendors/elementor/header_widgets/vertical_menu.php:116
+msgid "Link Hover Color"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/banner.php:16
+msgid "Apus Banner"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/banner.php:28
+msgid "Banner"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/banner.php:37
+msgid "Image Background"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/banner.php:39
+msgid "Upload Image Background Here"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/banner.php:46
+#: inc/vendors/elementor/widgets/features_box.php:46
+#: inc/vendors/elementor/widgets/team.php:88 woocommerce/cart/cart.php:62
+msgid "Image"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/banner.php:48
+#: inc/vendors/elementor/widgets/team.php:90
+msgid "Upload Image Here"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/banner.php:55
+msgid "Image Alignment"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/banner.php:71
+#: inc/vendors/elementor/widgets/banner.php:150
+#: inc/vendors/elementor/widgets/countdown.php:87
+#: inc/vendors/elementor/widgets/features_box.php:191
+#: inc/vendors/elementor/widgets/heading.php:199
+#: inc/vendors/elementor/widgets/process.php:119
+msgid "Justified"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/banner.php:85
+#: inc/vendors/elementor/widgets/countdown.php:101
+msgid "URL"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/banner.php:88
+#: inc/vendors/elementor/widgets/call_to_action.php:67
+#: inc/vendors/elementor/widgets/countdown.php:104
+msgid "Enter your Button Link here"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/banner.php:97
+#: inc/vendors/elementor/widgets/countdown.php:55
+msgid "Enter your content here"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/banner.php:104
+#: inc/vendors/elementor/widgets/call_to_action.php:54
+#: inc/vendors/elementor/widgets/countdown.php:110
+msgid "Button Text"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/banner.php:106
+#: inc/vendors/elementor/widgets/call_to_action.php:57
+#: inc/vendors/elementor/widgets/countdown.php:112
+msgid "Enter your button text here"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/banner.php:113
+#: inc/vendors/elementor/widgets/call_to_action.php:74
+#: inc/vendors/elementor/widgets/countdown.php:119
+msgid "Button Style"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/banner.php:116
+#: inc/vendors/elementor/widgets/countdown.php:122
+msgid "Theme Color"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/banner.php:117
+#: inc/vendors/elementor/widgets/countdown.php:123
+msgid "Theme Outline Color"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/banner.php:118
+#: inc/vendors/elementor/widgets/call_to_action.php:77
+#: inc/vendors/elementor/widgets/countdown.php:124
+msgid "Default "
+msgstr ""
+
+#: inc/vendors/elementor/widgets/banner.php:119
+#: inc/vendors/elementor/widgets/call_to_action.php:78
+#: inc/vendors/elementor/widgets/countdown.php:125
+msgid "Primary "
+msgstr ""
+
+#: inc/vendors/elementor/widgets/banner.php:120
+#: inc/vendors/elementor/widgets/call_to_action.php:79
+#: inc/vendors/elementor/widgets/countdown.php:126
+msgid "Success "
+msgstr ""
+
+#: inc/vendors/elementor/widgets/banner.php:121
+#: inc/vendors/elementor/widgets/call_to_action.php:80
+#: inc/vendors/elementor/widgets/countdown.php:127
+msgid "Info "
+msgstr ""
+
+#: inc/vendors/elementor/widgets/banner.php:122
+#: inc/vendors/elementor/widgets/call_to_action.php:81
+#: inc/vendors/elementor/widgets/countdown.php:128
+msgid "Warning "
+msgstr ""
+
+#: inc/vendors/elementor/widgets/banner.php:123
+#: inc/vendors/elementor/widgets/call_to_action.php:82
+#: inc/vendors/elementor/widgets/countdown.php:129
+msgid "Danger "
+msgstr ""
+
+#: inc/vendors/elementor/widgets/banner.php:124
+#: inc/vendors/elementor/widgets/call_to_action.php:83
+#: inc/vendors/elementor/widgets/countdown.php:130
+msgid "Pink "
+msgstr ""
+
+#: inc/vendors/elementor/widgets/banner.php:125
+#: inc/vendors/elementor/widgets/call_to_action.php:84
+#: inc/vendors/elementor/widgets/countdown.php:131
+msgid "White "
+msgstr ""
+
+#: inc/vendors/elementor/widgets/banner.php:134
+msgid "Content Alignment"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/banner.php:169
+msgid "Style 3"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/banner.php:170
+msgid "Style 4"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/banner.php:178
+msgid "Vertical Content"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/banner.php:181
+msgid "Top"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/banner.php:182
+msgid "Middle"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/banner.php:183
+msgid "Bottom"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/brands.php:16
+msgid "Apus Brands"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/brands.php:39
+msgid "Brand Title"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/brands.php:48
+msgid "Brand Image"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/brands.php:50
+#: inc/vendors/elementor/widgets/testimonials.php:52
+msgid "Upload Brand Image"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/brands.php:57
+#: inc/vendors/elementor/widgets/heading.php:131
+#: inc/vendors/elementor/widgets/process.php:65
+#: inc/vendors/redux-framework/redux-config.php:176
+msgid "Link"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/brands.php:60
+msgid "Enter your brand link here"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/brands.php:67
+msgid "Brands"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/brands.php:69
+msgid "Enter your brands here"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/brands.php:77
+#: inc/vendors/elementor/widgets/features_box.php:163
+#: inc/vendors/elementor/widgets/instagram.php:76
+#: inc/vendors/elementor/widgets/posts.php:99
+#: inc/vendors/elementor/woo_widgets/woo_product_tabs.php:104
+#: inc/vendors/elementor/woo_widgets/woo_products.php:86
+#: inc/vendors/elementor/woo_widgets/woo_products_deal.php:75
+#: inc/vendors/redux-framework/redux-config.php:308
+msgid "Layout"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/brands.php:80
+#: inc/vendors/elementor/widgets/features_box.php:167
+#: inc/vendors/elementor/widgets/instagram.php:79
+#: inc/vendors/elementor/widgets/posts.php:102
+#: inc/vendors/elementor/woo_widgets/woo_product_tabs.php:107
+#: inc/vendors/elementor/woo_widgets/woo_products.php:89
+#: inc/vendors/elementor/woo_widgets/woo_products_deal.php:78
+#: inc/vendors/woocommerce/functions-redux-configs.php:107
+msgid "Grid"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/brands.php:81
+#: inc/vendors/elementor/widgets/features_box.php:166
+#: inc/vendors/elementor/widgets/instagram.php:80
+#: inc/vendors/elementor/widgets/posts.php:103
+#: inc/vendors/elementor/woo_widgets/woo_product_tabs.php:108
+#: inc/vendors/elementor/woo_widgets/woo_products.php:90
+#: inc/vendors/elementor/woo_widgets/woo_products_deal.php:79
+msgid "Carousel"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/brands.php:103
+#: inc/vendors/elementor/widgets/features_box.php:139
+#: inc/vendors/elementor/widgets/instagram.php:67
+#: inc/vendors/elementor/widgets/posts.php:89
+#: inc/vendors/elementor/widgets/process.php:84
+#: inc/vendors/elementor/woo_widgets/woo_product_tabs.php:128
+#: inc/vendors/elementor/woo_widgets/woo_products.php:112
+#: inc/vendors/elementor/woo_widgets/woo_products_deal.php:88
+msgid "Columns"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/brands.php:106
+#: inc/vendors/elementor/widgets/process.php:87
+#: inc/vendors/elementor/woo_widgets/woo_product_tabs.php:130
+#: inc/vendors/elementor/woo_widgets/woo_products.php:115
+#: inc/vendors/elementor/woo_widgets/woo_products_deal.php:91
+#: inc/vendors/elementor/woo_widgets/woo_products_deal.php:102
+msgid "Enter your column number here"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/call_to_action.php:16
+msgid "Apus Call To Action"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/call_to_action.php:39
+#: inc/vendors/elementor/widgets/countdown.php:38
+#: inc/vendors/elementor/widgets/instagram.php:43
+#: inc/vendors/elementor/widgets/mailchimp.php:38
+#: inc/vendors/elementor/widgets/nav_menu.php:48
+#: inc/vendors/elementor/widgets/posts.php:37
+msgid "Enter your title here"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/call_to_action.php:45
+#: inc/vendors/elementor/widgets/process.php:45
+#: inc/vendors/redux-framework/redux-config.php:485
+msgid "Description"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/call_to_action.php:47
+msgid "Enter your description here"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/call_to_action.php:64
+msgid "Button Link"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/call_to_action.php:107
+#: inc/vendors/elementor/widgets/mailchimp.php:69
+#: inc/vendors/elementor/widgets/popup_video.php:100
+#: inc/vendors/elementor/widgets/posts.php:134
+#: inc/vendors/elementor/widgets/testimonials.php:129
+msgid "Tyles"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/call_to_action.php:115
+#: inc/vendors/elementor/widgets/countdown.php:173
+#: inc/vendors/elementor/widgets/features_box.php:237
+#: inc/vendors/elementor/widgets/instagram.php:151
+#: inc/vendors/elementor/widgets/mailchimp.php:77
+#: inc/vendors/elementor/widgets/nav_menu.php:98
+#: inc/vendors/elementor/widgets/popup_video.php:108
+#: inc/vendors/elementor/widgets/posts.php:142
+#: inc/vendors/elementor/widgets/process.php:153
+#: inc/vendors/elementor/widgets/testimonials.php:137
+#: inc/vendors/elementor/woo_widgets/woo_category_banner.php:97
+#: inc/vendors/elementor/woo_widgets/woo_product_tabs.php:375
+#: inc/vendors/elementor/woo_widgets/woo_products.php:285
+#: inc/vendors/elementor/woo_widgets/woo_products_deal.php:274
+msgid "Title Color"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/call_to_action.php:127
+#: inc/vendors/elementor/widgets/countdown.php:185
+#: inc/vendors/elementor/widgets/features_box.php:250
+#: inc/vendors/elementor/widgets/instagram.php:163
+#: inc/vendors/elementor/widgets/mailchimp.php:89
+#: inc/vendors/elementor/widgets/nav_menu.php:110
+#: inc/vendors/elementor/widgets/popup_video.php:120
+#: inc/vendors/elementor/widgets/posts.php:154
+#: inc/vendors/elementor/widgets/process.php:164
+#: inc/vendors/elementor/widgets/testimonials.php:149
+#: inc/vendors/elementor/woo_widgets/woo_category_banner.php:121
+#: inc/vendors/elementor/woo_widgets/woo_product_tabs.php:399
+#: inc/vendors/elementor/woo_widgets/woo_products.php:309
+#: inc/vendors/elementor/woo_widgets/woo_products_deal.php:298
+msgid "Title Typography"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/call_to_action.php:136
+#: inc/vendors/elementor/widgets/countdown.php:194
+#: inc/vendors/elementor/widgets/features_box.php:259
+#: inc/vendors/elementor/widgets/popup_video.php:129
+#: inc/vendors/elementor/widgets/process.php:173
+msgid "Description Color"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/call_to_action.php:148
+#: inc/vendors/elementor/widgets/countdown.php:206
+#: inc/vendors/elementor/widgets/features_box.php:271
+#: inc/vendors/elementor/widgets/popup_video.php:141
+#: inc/vendors/elementor/widgets/process.php:185
+msgid "Description Typography"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/call_to_action.php:157
+#: inc/vendors/elementor/widgets/mailchimp.php:98
+#: inc/vendors/elementor/woo_widgets/woo_product_tabs.php:323
+#: inc/vendors/elementor/woo_widgets/woo_products.php:233
+#: inc/vendors/elementor/woo_widgets/woo_products_deal.php:222
+msgid "Button Color"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/call_to_action.php:170
+#: inc/vendors/elementor/widgets/mailchimp.php:111
+msgid "Button Background"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/call_to_action.php:183
+#: inc/vendors/elementor/widgets/mailchimp.php:124
+msgid "Button Typography"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/countdown.php:16
+msgid "Apus Countdown"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/countdown.php:28
+msgid "Countdown"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/countdown.php:45 woocommerce/cart/cart.php:64
+#: woocommerce/cart/cart.php:116
+msgid "Price"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/countdown.php:47
+msgid "Enter your Price here"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/countdown.php:60
+#: inc/vendors/elementor/woo_widgets/woo_products_deal.php:54
+msgid "End Date"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/countdown.php:144
+msgid "Style 2(showdow)"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/countdown.php:145
+msgid "Style 3(circle)"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/features_box.php:16
+msgid "Apus Features Box"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/features_box.php:32
+#: inc/vendors/elementor/widgets/features_box.php:130
+msgid "Features Box"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/features_box.php:42
+msgid "Image or Icon"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/features_box.php:45
+#: inc/vendors/elementor/widgets/features_box.php:55
+msgid "Icon"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/features_box.php:96
+msgid "Title & Description"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/features_box.php:98
+msgid "This is the heading"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/features_box.php:99
+#: inc/vendors/elementor/widgets/heading.php:113
+msgid "Enter your title"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/features_box.php:108
+msgid "Click edit button to change this text. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo."
+msgstr ""
+
+#: inc/vendors/elementor/widgets/features_box.php:109
+msgid "Enter your description"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/features_box.php:119
+msgid "Link to"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/features_box.php:121
+#: inc/vendors/elementor/widgets/testimonials.php:88
+msgid "https://your-link.com"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/features_box.php:152
+msgid "Style 1 (Shadow)"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/features_box.php:153
+msgid "Style 2 (Horizontal)"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/features_box.php:154
+msgid "Style 3 (Border)"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/features_box.php:155
+msgid "Style 4 (Border 2)"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/heading.php:42
+msgid "Apus Heading"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/heading.php:114
+msgid "Add Your Heading Text Here"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/heading.php:122
+msgid "Line Decor Image"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/heading.php:124
+msgid "Decor Background Image"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/heading.php:146
+msgid "Size"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/heading.php:151
+#: inc/vendors/elementor/widgets/instagram.php:93
+#: inc/vendors/elementor/widgets/social_links.php:105
+msgid "Small"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/heading.php:152
+msgid "Medium"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/heading.php:153
+#: inc/vendors/elementor/widgets/instagram.php:94
+msgid "Large"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/heading.php:154
+msgid "XL"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/heading.php:155
+msgid "XXL"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/heading.php:163
+msgid "HTML Tag"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/heading.php:213
+#: woocommerce/myaccount/my-orders.php:83
+msgid "View"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/heading.php:232
+msgid "Text Color"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/heading.php:265
+msgid "Blend Mode"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/heading.php:268
+#: inc/vendors/elementor/widgets/social_links.php:104
+msgid "Normal"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/instagram.php:16
+msgid "Apus Instagram"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/instagram.php:32
+msgid "Instagram"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/instagram.php:49
+msgid "Instagram Username"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/instagram.php:57
+#: inc/vendors/elementor/widgets/posts.php:44
+msgid "Number"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/instagram.php:59
+msgid "Number images to display"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/instagram.php:89
+msgid "Photo size"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/instagram.php:92
+msgid "Thumbnail"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/instagram.php:95
+msgid "Original"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/instagram.php:104
+msgid "Open links in"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/instagram.php:107
+msgid "Current window (_self)"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/instagram.php:108
+msgid "New window (_blank)"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/mailchimp.php:16
+msgid "Apus MailChimp Sign-Up Form"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/mailchimp.php:28
+msgid "MailChimp Sign-Up Form"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/mailchimp.php:49
+msgid "White"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/mailchimp.php:132
+msgid "Input Background"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/nav_menu.php:16
+msgid "Apus Navigation Menu"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/nav_menu.php:38
+msgid "Navigation Menu"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/nav_menu.php:55
+msgid "Menu"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/nav_menu.php:122
+msgid "Menu Item"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/nav_menu.php:130
+msgid "Menu Color"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/nav_menu.php:141
+msgid "Menu Color Hover"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/nav_menu.php:153
+msgid "Menu Typography"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/popup_video.php:16
+msgid "Apus Popup Video"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/popup_video.php:56
+msgid "Youtube Video Link"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/popup_video.php:66
+msgid "Background Image"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/popup_video.php:68
+#: inc/vendors/elementor/widgets/process.php:97
+msgid "Upload Background Image"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/posts.php:14
+msgid "Apus Posts"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/posts.php:26
+msgid "Posts"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/posts.php:47
+msgid "Number posts to display"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/posts.php:55
+msgid "Order by"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/posts.php:59
+#: woocommerce/myaccount/my-orders.php:35
+#: woocommerce/myaccount/my-orders.php:54
+msgid "Date"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/posts.php:60
+msgid "ID"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/posts.php:61
+msgid "Author"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/posts.php:63
+msgid "Modified"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/posts.php:64
+msgid "Random"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/posts.php:65
+msgid "Comment count"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/posts.php:66
+msgid "Menu order"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/posts.php:75
+msgid "Sort order"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/posts.php:79
+msgid "Ascending"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/posts.php:80
+msgid "Descending"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/posts.php:163
+msgid "Post Title Color"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/posts.php:175
+msgid "Post Title Typography"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/posts.php:184
+msgid "Post Excerpt Color"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/posts.php:196
+msgid "Post Excerpt Typography"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/posts.php:205
+msgid "Post Tag Color"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/posts.php:217
+msgid "Post Tag Typography"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/posts.php:226
+msgid "Post Read More Color"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/posts.php:238
+msgid "Post Read More Typography"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/process.php:16
+msgid "Apus Process"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/process.php:56
+msgid "Icon Image"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/process.php:58
+msgid "Upload Icon Image"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/process.php:68
+msgid "Enter your proces link here"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/process.php:75
+msgid "Process"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/process.php:77
+msgid "Enter your Process here"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/process.php:95
+msgid "Background Image Space Columns"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/revslider.php:14
+msgid "Apus Slider Revolution"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/revslider.php:33
+msgid "No sliders found"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/revslider.php:38
+msgid "Revslider"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/revslider.php:48
+msgid "Select your Revolution Slider."
+msgstr ""
+
+#: inc/vendors/elementor/widgets/social_links.php:16
+msgid "Apus Social Links"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/social_links.php:41
+#: inc/vendors/elementor/widgets/social_links.php:43
+#: inc/vendors/elementor/widgets/team.php:41
+#: inc/vendors/elementor/widgets/team.php:43
+msgid "Social Title"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/social_links.php:51
+#: inc/vendors/elementor/widgets/team.php:51
+msgid "Social Link"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/social_links.php:54
+#: inc/vendors/elementor/widgets/team.php:54
+#: inc/vendors/elementor/widgets/testimonials.php:87
+msgid "Enter your social link here"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/social_links.php:61
+#: inc/vendors/elementor/widgets/team.php:61
+msgid "Social Icon"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/social_links.php:69
+#: inc/vendors/elementor/widgets/team.php:106
+msgid "Socials"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/social_links.php:134
+#: inc/vendors/elementor/widgets/team.php:136
+msgid "Background Hover Color"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/team.php:16
+msgid "Apus Teams"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/team.php:32
+msgid "Team"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/team.php:68
+#: inc/vendors/elementor/widgets/team.php:70
+msgid "Member Name"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/team.php:77
+#: inc/vendors/elementor/widgets/team.php:79
+msgid "Member Job"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/team.php:96
+#: inc/vendors/elementor/widgets/team.php:98
+msgid "Member Description"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/testimonials.php:16
+msgid "Apus Testimonials"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/testimonials.php:59
+msgid "Choose Image Rating"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/testimonials.php:61
+msgid "Upload Rating Image"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/testimonials.php:67
+#: woocommerce/single-product-reviews.php:68
+msgid "Name"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/testimonials.php:76
+msgid "Job"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/testimonials.php:85
+msgid "Link To"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/testimonials.php:95
+msgid "Testimonials"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/testimonials.php:108
+msgid "Box"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/testimonials.php:158
+msgid "Testimonial Title Color"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/testimonials.php:170
+msgid "Testimonial Title Typography"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/testimonials.php:179
+msgid "Content Color"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/testimonials.php:191
+msgid "Content Typography"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/testimonials.php:200
+msgid "Job Color"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/testimonials.php:212
+msgid "Job Typography"
+msgstr ""
+
+#: inc/vendors/elementor/woo_header_widgets/woo_header_info.php:16
+msgid "Apus Header Woo Button"
+msgstr ""
+
+#: inc/vendors/elementor/woo_header_widgets/woo_header_info.php:36
+msgid "Hide Wishlist"
+msgstr ""
+
+#: inc/vendors/elementor/woo_header_widgets/woo_header_info.php:47
+msgid "Hide Cart"
+msgstr ""
+
+#: inc/vendors/elementor/woo_header_widgets/woo_header_info.php:58
+msgid "Mini Cart Layout"
+msgstr ""
+
+#: inc/vendors/elementor/woo_header_widgets/woo_header_info.php:61
+msgid "Offcanvas"
+msgstr ""
+
+#: inc/vendors/elementor/woo_header_widgets/woo_header_info.php:115
+msgid "Background Color Count"
+msgstr ""
+
+#: inc/vendors/elementor/woo_header_widgets/woo_header_info.php:147
+#: inc/vendors/elementor/woo_header_widgets/woo_header_info.php:158
+#: woocommerce/cart/mini-cart-button.php:4
+msgid "View your shopping cart"
+msgstr ""
+
+#: inc/vendors/elementor/woo_header_widgets/woo_header_info.php:164
+msgid " Your Cart"
+msgstr ""
+
+#: inc/vendors/elementor/woo_widgets/woo_category_banner.php:16
+msgid "Apus Category Banner"
+msgstr ""
+
+#: inc/vendors/elementor/woo_widgets/woo_category_banner.php:39
+msgid "Category Title"
+msgstr ""
+
+#: inc/vendors/elementor/woo_widgets/woo_category_banner.php:46
+#: inc/vendors/elementor/woo_widgets/woo_product_tabs.php:66
+msgid "Category Slug"
+msgstr ""
+
+#: inc/vendors/elementor/woo_widgets/woo_category_banner.php:55
+msgid "Category Image"
+msgstr ""
+
+#: inc/vendors/elementor/woo_widgets/woo_category_banner.php:57
+msgid "Upload Category Image"
+msgstr ""
+
+#: inc/vendors/elementor/woo_widgets/woo_category_banner.php:85
+#: inc/vendors/elementor/woo_widgets/woo_products.php:220
+msgid "Border Hover Color"
+msgstr ""
+
+#: inc/vendors/elementor/woo_widgets/woo_category_banner.php:109
+#: inc/vendors/elementor/woo_widgets/woo_product_tabs.php:387
+#: inc/vendors/elementor/woo_widgets/woo_products.php:297
+#: inc/vendors/elementor/woo_widgets/woo_products_deal.php:286
+msgid "Title Hover Color"
+msgstr ""
+
+#: inc/vendors/elementor/woo_widgets/woo_category_banner.php:130
+msgid "Number item Color"
+msgstr ""
+
+#: inc/vendors/elementor/woo_widgets/woo_category_banner.php:142
+msgid "Number item Typography"
+msgstr ""
+
+#: inc/vendors/elementor/woo_widgets/woo_category_banner.php:173
+msgid "%d Item"
+msgid_plural "%d Items"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/vendors/elementor/woo_widgets/woo_product_tabs.php:16
+msgid "Apus Product Tabs"
+msgstr ""
+
+#: inc/vendors/elementor/woo_widgets/woo_product_tabs.php:41
+msgid "Tab Title"
+msgstr ""
+
+#: inc/vendors/elementor/woo_widgets/woo_product_tabs.php:49
+#: inc/vendors/elementor/woo_widgets/woo_products.php:47
+msgid "Get Products By"
+msgstr ""
+
+#: inc/vendors/elementor/woo_widgets/woo_product_tabs.php:52
+#: inc/vendors/elementor/woo_widgets/woo_products.php:50
+msgid "Recent Products"
+msgstr ""
+
+#: inc/vendors/elementor/woo_widgets/woo_product_tabs.php:53
+#: inc/vendors/elementor/woo_widgets/woo_products.php:51
+msgid "Best Selling"
+msgstr ""
+
+#: inc/vendors/elementor/woo_widgets/woo_product_tabs.php:54
+#: inc/vendors/elementor/woo_widgets/woo_products.php:52
+msgid "Featured Products"
+msgstr ""
+
+#: inc/vendors/elementor/woo_widgets/woo_product_tabs.php:55
+#: inc/vendors/elementor/woo_widgets/woo_products.php:53
+msgid "Top Rate"
+msgstr ""
+
+#: inc/vendors/elementor/woo_widgets/woo_product_tabs.php:56
+#: inc/vendors/elementor/woo_widgets/woo_products.php:54
+msgid "On Sale"
+msgstr ""
+
+#: inc/vendors/elementor/woo_widgets/woo_product_tabs.php:57
+#: inc/vendors/elementor/woo_widgets/woo_products.php:55
+msgid "Recent Review"
+msgstr ""
+
+#: inc/vendors/elementor/woo_widgets/woo_product_tabs.php:70
+#: inc/vendors/elementor/woo_widgets/woo_products.php:68
+msgid "Enter id spearate by comma(,)"
+msgstr ""
+
+#: inc/vendors/elementor/woo_widgets/woo_product_tabs.php:76
+#: inc/vendors/elementor/woo_widgets/woo_products.php:39
+#: inc/vendors/elementor/woo_widgets/woo_products_deal.php:38
+msgid "Widget Title"
+msgstr ""
+
+#: inc/vendors/elementor/woo_widgets/woo_product_tabs.php:84
+msgid "Tabs"
+msgstr ""
+
+#: inc/vendors/elementor/woo_widgets/woo_product_tabs.php:86
+#: inc/vendors/elementor/woo_widgets/woo_products_deal.php:67
+msgid "Enter your product tabs here"
+msgstr ""
+
+#: inc/vendors/elementor/woo_widgets/woo_product_tabs.php:94
+#: inc/vendors/elementor/woo_widgets/woo_products.php:75
+msgid "Limit"
+msgstr ""
+
+#: inc/vendors/elementor/woo_widgets/woo_product_tabs.php:96
+#: inc/vendors/elementor/woo_widgets/woo_products.php:78
+msgid "Enter number products to display"
+msgstr ""
+
+#: inc/vendors/elementor/woo_widgets/woo_product_tabs.php:116
+#: inc/vendors/elementor/woo_widgets/woo_products.php:99
+msgid "Product Item"
+msgstr ""
+
+#: inc/vendors/elementor/woo_widgets/woo_product_tabs.php:119
+msgid "Grid Item 1"
+msgstr ""
+
+#: inc/vendors/elementor/woo_widgets/woo_product_tabs.php:120
+msgid "Grid Item 2(No Border)"
+msgstr ""
+
+#: inc/vendors/elementor/woo_widgets/woo_product_tabs.php:138
+#: inc/vendors/elementor/woo_widgets/woo_products.php:123
+#: inc/vendors/elementor/woo_widgets/woo_products_deal.php:113
+msgid "Rows"
+msgstr ""
+
+#: inc/vendors/elementor/woo_widgets/woo_product_tabs.php:140
+#: inc/vendors/elementor/woo_widgets/woo_products.php:126
+#: inc/vendors/elementor/woo_widgets/woo_products_deal.php:116
+msgid "Enter your rows number here"
+msgstr ""
+
+#: inc/vendors/elementor/woo_widgets/woo_product_tabs.php:151
+#: inc/vendors/elementor/woo_widgets/woo_products.php:137
+#: inc/vendors/elementor/woo_widgets/woo_products_deal.php:127
+msgid "Show Navigation"
+msgstr ""
+
+#: inc/vendors/elementor/woo_widgets/woo_product_tabs.php:166
+#: inc/vendors/elementor/woo_widgets/woo_products.php:152
+#: inc/vendors/elementor/woo_widgets/woo_products_deal.php:142
+msgid "Show Pagination"
+msgstr ""
+
+#: inc/vendors/elementor/woo_widgets/woo_product_tabs.php:180
+msgid "Position Tab"
+msgstr ""
+
+#: inc/vendors/elementor/woo_widgets/woo_product_tabs.php:192
+msgid "Show Border for Tab"
+msgstr ""
+
+#: inc/vendors/elementor/woo_widgets/woo_product_tabs.php:215
+#: inc/vendors/elementor/woo_widgets/woo_products.php:180
+#: inc/vendors/elementor/woo_widgets/woo_products_deal.php:170
+msgid "Widget Style"
+msgstr ""
+
+#: inc/vendors/elementor/woo_widgets/woo_product_tabs.php:223
+#: inc/vendors/elementor/woo_widgets/woo_products.php:188
+#: inc/vendors/elementor/woo_widgets/woo_products_deal.php:178
+msgid "Widget Title Color"
+msgstr ""
+
+#: inc/vendors/elementor/woo_widgets/woo_product_tabs.php:235
+#: inc/vendors/elementor/woo_widgets/woo_products.php:200
+#: inc/vendors/elementor/woo_widgets/woo_products_deal.php:190
+msgid "Widget Title Typography"
+msgstr ""
+
+#: inc/vendors/elementor/woo_widgets/woo_product_tabs.php:248
+msgid "Tabs Style"
+msgstr ""
+
+#: inc/vendors/elementor/woo_widgets/woo_product_tabs.php:256
+msgid "Tab Color"
+msgstr ""
+
+#: inc/vendors/elementor/woo_widgets/woo_product_tabs.php:268
+msgid "Tab Hover/Active Color"
+msgstr ""
+
+#: inc/vendors/elementor/woo_widgets/woo_product_tabs.php:280
+msgid "Border Active Color"
+msgstr ""
+
+#: inc/vendors/elementor/woo_widgets/woo_product_tabs.php:292
+msgid "Tab Typography"
+msgstr ""
+
+#: inc/vendors/elementor/woo_widgets/woo_product_tabs.php:303
+#: inc/vendors/elementor/woo_widgets/woo_products.php:212
+#: inc/vendors/elementor/woo_widgets/woo_products_deal.php:202
+msgid "Product Style"
+msgstr ""
+
+#: inc/vendors/elementor/woo_widgets/woo_product_tabs.php:311
+#: inc/vendors/elementor/woo_widgets/woo_products_deal.php:210
+msgid "Border Color"
+msgstr ""
+
+#: inc/vendors/elementor/woo_widgets/woo_product_tabs.php:336
+#: inc/vendors/elementor/woo_widgets/woo_products.php:246
+#: inc/vendors/elementor/woo_widgets/woo_products_deal.php:235
+#: inc/vendors/redux-framework/redux-config.php:510
+msgid "Button Background Color"
+msgstr ""
+
+#: inc/vendors/elementor/woo_widgets/woo_product_tabs.php:349
+#: inc/vendors/elementor/woo_widgets/woo_products.php:259
+#: inc/vendors/elementor/woo_widgets/woo_products_deal.php:248
+msgid "Button Hover Color"
+msgstr ""
+
+#: inc/vendors/elementor/woo_widgets/woo_product_tabs.php:362
+#: inc/vendors/elementor/woo_widgets/woo_products.php:272
+#: inc/vendors/elementor/woo_widgets/woo_products_deal.php:261
+msgid "Button Hover Background Color"
+msgstr ""
+
+#: inc/vendors/elementor/woo_widgets/woo_product_tabs.php:408
+#: inc/vendors/elementor/woo_widgets/woo_products.php:318
+#: inc/vendors/elementor/woo_widgets/woo_products_deal.php:307
+msgid "Category Color"
+msgstr ""
+
+#: inc/vendors/elementor/woo_widgets/woo_product_tabs.php:420
+#: inc/vendors/elementor/woo_widgets/woo_products.php:330
+#: inc/vendors/elementor/woo_widgets/woo_products_deal.php:319
+msgid "Category Typography"
+msgstr ""
+
+#: inc/vendors/elementor/woo_widgets/woo_product_tabs.php:429
+#: inc/vendors/elementor/woo_widgets/woo_products.php:339
+#: inc/vendors/elementor/woo_widgets/woo_products_deal.php:328
+msgid "Price Color"
+msgstr ""
+
+#: inc/vendors/elementor/woo_widgets/woo_product_tabs.php:441
+#: inc/vendors/elementor/woo_widgets/woo_products.php:351
+#: inc/vendors/elementor/woo_widgets/woo_products_deal.php:340
+msgid "Price Typography"
+msgstr ""
+
+#: inc/vendors/elementor/woo_widgets/woo_product_tabs.php:450
+#: inc/vendors/elementor/woo_widgets/woo_products.php:360
+#: inc/vendors/elementor/woo_widgets/woo_products_deal.php:349
+msgid "Old Price Color"
+msgstr ""
+
+#: inc/vendors/elementor/woo_widgets/woo_product_tabs.php:462
+#: inc/vendors/elementor/woo_widgets/woo_products.php:372
+#: inc/vendors/elementor/woo_widgets/woo_products_deal.php:361
+msgid "Old Price Typography"
+msgstr ""
+
+#: inc/vendors/elementor/woo_widgets/woo_products.php:16
+msgid "Apus Products"
+msgstr ""
+
+#: inc/vendors/elementor/woo_widgets/woo_products.php:64
+msgid "Categories Slug"
+msgstr ""
+
+#: inc/vendors/elementor/woo_widgets/woo_products.php:102
+msgid "Grid Item"
+msgstr ""
+
+#: inc/vendors/elementor/woo_widgets/woo_products.php:103
+msgid "List 1 Item"
+msgstr ""
+
+#: inc/vendors/elementor/woo_widgets/woo_products.php:104
+msgid "List 2 Item"
+msgstr ""
+
+#: inc/vendors/elementor/woo_widgets/woo_products_deal.php:16
+msgid "Apus Products Deal"
+msgstr ""
+
+#: inc/vendors/elementor/woo_widgets/woo_products_deal.php:47
+msgid "Product ID"
+msgstr ""
+
+#: inc/vendors/elementor/woo_widgets/woo_products_deal.php:65
+msgid "Products Deal"
+msgstr ""
+
+#: inc/vendors/elementor/woo_widgets/woo_products_deal.php:99
+msgid "Columns Tablet"
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:52
+msgid "1 Column"
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:53
+msgid "2 Columns"
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:54
+msgid "3 Columns"
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:55
+msgid "4 Columns"
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:56
+msgid "5 Columns"
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:57
+msgid "6 Columns"
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:58
+msgid "7 Columns"
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:59
+msgid "8 Columns"
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:66
+msgid "Preload Website"
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:72
+msgid "Preload Icon"
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:73
+msgid "Upload a .png or .gif image that will be your preload icon."
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:79
+msgid "Image Lazy Loading"
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:85
+msgid "Smooth Scroll"
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:91
+msgid "General"
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:97
+msgid "Header"
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:103
+msgid "Header Settings"
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:111
+msgid "You can add or edit a header in <a href=\"%s\" target=\"_blank\">Headers Builder</a>"
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:116
+msgid "Sticky Header"
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:123
+msgid "Header Mobile Settings"
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:128
+msgid "Mobile Logo Upload"
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:129
+msgid "Upload a .png or .gif image that will be your logo."
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:134
+msgid "Search Header"
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:140
+msgid "Enable Autocompleate Search"
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:147
+#: inc/vendors/redux-framework/redux-config.php:240
+msgid "Show Cart Button"
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:153
+msgid "Show Wishlist Button"
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:159
+msgid "Show Login/Register"
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:165
+#: inc/widgets/vertical_menu.php:8
+msgid "Show Vertical Menu"
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:171
+msgid "Social Links"
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:181
+msgid "Font Icon"
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:201
+msgid "Footer"
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:213
+msgid "Back To Top Button"
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:214
+msgid "Toggle whether or not to enable a back to top button on your pages."
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:218
+msgid "Show Footer Desktop On Mobile"
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:219
+msgid "Enable to show Footer Desktop on mobile."
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:225
+msgid "Show Separate Footer On Mobile"
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:226
+msgid "Enable to show separate footer on mobile."
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:232
+msgid "Show Search Button"
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:237
+msgid "Show search button on footer mobile."
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:245
+msgid "Show cart button on footer mobile."
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:248
+msgid "Show My Account"
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:253
+msgid "Show My Account button on footer mobile."
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:256
+msgid "Show More Link"
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:261
+msgid "Show More Link button on footer mobile."
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:266
+msgid "More Link Menu"
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:281
+#: inc/vendors/woocommerce/functions-redux-configs.php:66
+msgid "Breadcrumbs"
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:285
+#: inc/vendors/woocommerce/functions-redux-configs.php:70
+msgid "Breadcrumbs Background Color"
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:286
+#: inc/vendors/woocommerce/functions-redux-configs.php:71
+msgid "The breadcrumbs background color of the site."
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:294
+#: inc/vendors/woocommerce/functions-redux-configs.php:79
+msgid "Breadcrumbs Background"
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:295
+#: inc/vendors/woocommerce/functions-redux-configs.php:80
+msgid "Upload a .jpg or .png image that will be your breadcrumbs."
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:302
+msgid "Blog & Post Archives"
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:309
+#: inc/vendors/redux-framework/redux-config.php:389
+msgid "Select the variation you want to apply on your store."
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:338
+#: inc/vendors/woocommerce/functions-redux-configs.php:208
+msgid "Archive Left Sidebar"
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:345
+#: inc/vendors/woocommerce/functions-redux-configs.php:215
+msgid "Archive Right Sidebar"
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:353
+msgid "Display Mode"
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:355
+msgid "Grid Layout"
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:356
+msgid "Grid 2 Layout"
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:357
+msgid "List Layout"
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:364
+msgid "Blog Columns"
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:371
+msgid "Thumbnail Size"
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:372
+msgid "This featured for the site is using Visual Composer."
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:373
+msgid "Enter thumbnail size. Example: thumbnail, medium, large, full or other sizes defined by current theme. Alternatively enter image size in pixels: 200x100 (Width x Height) ."
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:388
+msgid "Archive Blog Layout"
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:418
+msgid "Single Blog Left Sidebar"
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:425
+msgid "Single Blog Right Sidebar"
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:432
+#: inc/vendors/woocommerce/functions-redux-configs.php:292
+msgid "Show Social Share"
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:438
+msgid "Show Releated Posts"
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:444
+msgid "Number of related posts to show"
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:455
+msgid "Releated Blogs Columns"
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:468
+msgid "404 Page"
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:471
+msgid "Images Icon"
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:472
+msgid "Icon for 404 error."
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:494
+msgid "Custom Style"
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:500
+msgid "Custom Color"
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:503
+msgid "Main Theme Color"
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:504
+#: inc/vendors/redux-framework/redux-config.php:511
+#: inc/vendors/redux-framework/redux-config.php:518
+msgid "The main color of the site."
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:517
+msgid "Button Background Hover Color"
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:529
+msgid "Custom Typography"
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:532
+msgid "Main Font Face"
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:533
+msgid "Pick the Main Font for your site."
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:549
+msgid "Heading Font Face"
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:550
+msgid "Pick the Heading Font for your site."
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:572
+msgid "Social Media"
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:577
+msgid "Enable Facebook Share"
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:583
+msgid "Enable twitter Share"
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:589
+msgid "Enable linkedin Share"
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:595
+msgid "Enable tumblr Share"
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:601
+msgid "Enable google plus Share"
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:607
+msgid "Enable pinterest Share"
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:615
+msgid "Import / Export"
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:616
+msgid "Import and Export your Redux Framework settings from file, text or URL."
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:657
+#: inc/vendors/redux-framework/redux-config.php:658
+msgid "Theme Options"
+msgstr ""
+
+#: inc/vendors/woocommerce/functions-redux-configs.php:16
+msgid "Shop Settings"
+msgstr ""
+
+#: inc/vendors/woocommerce/functions-redux-configs.php:22
+#: inc/vendors/woocommerce/functions-redux-configs.php:93
+#: inc/vendors/woocommerce/functions-redux-configs.php:232
+msgid "General Setting"
+msgstr ""
+
+#: inc/vendors/woocommerce/functions-redux-configs.php:27
+msgid "Enable Shop Catalog"
+msgstr ""
+
+#: inc/vendors/woocommerce/functions-redux-configs.php:29
+msgid "Enable Catalog Mode for disable Add To Cart button, Cart, Checkout"
+msgstr ""
+
+#: inc/vendors/woocommerce/functions-redux-configs.php:35
+msgid "Swatches Variation Setting"
+msgstr ""
+
+#: inc/vendors/woocommerce/functions-redux-configs.php:40
+msgid "Show Swatches On Product Grid"
+msgstr ""
+
+#: inc/vendors/woocommerce/functions-redux-configs.php:46
+msgid "Grid swatch attribute to display"
+msgstr ""
+
+#: inc/vendors/woocommerce/functions-redux-configs.php:47
+msgid "Choose attribute that will be shown on products grid"
+msgstr ""
+
+#: inc/vendors/woocommerce/functions-redux-configs.php:53
+msgid "Use images from product variations"
+msgstr ""
+
+#: inc/vendors/woocommerce/functions-redux-configs.php:54
+msgid "If enabled swatches buttons will be filled with images choosed for product variations and not with images uploaded to attribute terms."
+msgstr ""
+
+#: inc/vendors/woocommerce/functions-redux-configs.php:61
+msgid "Breadcrumbs Setting"
+msgstr ""
+
+#: inc/vendors/woocommerce/functions-redux-configs.php:86
+msgid "Product Archives"
+msgstr ""
+
+#: inc/vendors/woocommerce/functions-redux-configs.php:98
+msgid "Show Shop/Category Title ?"
+msgstr ""
+
+#: inc/vendors/woocommerce/functions-redux-configs.php:104
+msgid "Products Layout"
+msgstr ""
+
+#: inc/vendors/woocommerce/functions-redux-configs.php:105
+msgid "Choose a default layout archive product."
+msgstr ""
+
+#: inc/vendors/woocommerce/functions-redux-configs.php:108
+msgid "List"
+msgstr ""
+
+#: inc/vendors/woocommerce/functions-redux-configs.php:123
+msgid "Number of Products Per Page"
+msgstr ""
+
+#: inc/vendors/woocommerce/functions-redux-configs.php:133
+msgid "Show Quick View"
+msgstr ""
+
+#: inc/vendors/woocommerce/functions-redux-configs.php:139
+msgid "Enable Swap Image"
+msgstr ""
+
+#: inc/vendors/woocommerce/functions-redux-configs.php:146
+#: inc/vendors/woocommerce/functions-redux-configs.php:407
+msgid "Show Products Recent Viewed"
+msgstr ""
+
+#: inc/vendors/woocommerce/functions-redux-configs.php:151
+#: inc/vendors/woocommerce/functions-redux-configs.php:412
+msgid "Number of Recent Viewed products to show"
+msgstr ""
+
+#: inc/vendors/woocommerce/functions-redux-configs.php:162
+#: inc/vendors/woocommerce/functions-redux-configs.php:423
+msgid "Recent Viewed Products Columns"
+msgstr ""
+
+#: inc/vendors/woocommerce/functions-redux-configs.php:172
+#: inc/vendors/woocommerce/functions-redux-configs.php:312
+msgid "Sidebar Setting"
+msgstr ""
+
+#: inc/vendors/woocommerce/functions-redux-configs.php:184
+msgid "Archive Product Layout"
+msgstr ""
+
+#: inc/vendors/woocommerce/functions-redux-configs.php:185
+msgid "Select the layout you want to apply on your archive product page."
+msgstr ""
+
+#: inc/vendors/woocommerce/functions-redux-configs.php:188
+#: inc/vendors/woocommerce/functions-redux-configs.php:189
+msgid "Main Content"
+msgstr ""
+
+#: inc/vendors/woocommerce/functions-redux-configs.php:225
+msgid "Single Product"
+msgstr ""
+
+#: inc/vendors/woocommerce/functions-redux-configs.php:237
+msgid "Product Layout"
+msgstr ""
+
+#: inc/vendors/woocommerce/functions-redux-configs.php:239
+msgid "Layout 1 (3 Columns)"
+msgstr ""
+
+#: inc/vendors/woocommerce/functions-redux-configs.php:240
+msgid "Layout 2 (2 Columns)"
+msgstr ""
+
+#: inc/vendors/woocommerce/functions-redux-configs.php:247
+msgid "Thumbnails Position"
+msgstr ""
+
+#: inc/vendors/woocommerce/functions-redux-configs.php:249
+msgid "Thumbnails Left"
+msgstr ""
+
+#: inc/vendors/woocommerce/functions-redux-configs.php:250
+msgid "Thumbnails Right"
+msgstr ""
+
+#: inc/vendors/woocommerce/functions-redux-configs.php:251
+msgid "Thumbnails Bottom"
+msgstr ""
+
+#: inc/vendors/woocommerce/functions-redux-configs.php:257
+msgid "Number Thumbnails Per Row"
+msgstr ""
+
+#: inc/vendors/woocommerce/functions-redux-configs.php:267
+msgid "Delivery Information"
+msgstr ""
+
+#: inc/vendors/woocommerce/functions-redux-configs.php:273
+msgid "Shipping Information"
+msgstr ""
+
+#: inc/vendors/woocommerce/functions-redux-configs.php:279
+msgid "Show Product CountDown Timer"
+msgstr ""
+
+#: inc/vendors/woocommerce/functions-redux-configs.php:280
+msgid "For only product deal"
+msgstr ""
+
+#: inc/vendors/woocommerce/functions-redux-configs.php:286
+msgid "Show Product Meta"
+msgstr ""
+
+#: inc/vendors/woocommerce/functions-redux-configs.php:298
+msgid "Show Product Review Tab"
+msgstr ""
+
+#: inc/vendors/woocommerce/functions-redux-configs.php:304
+msgid "Hidden Product Additional Information Tab"
+msgstr ""
+
+#: inc/vendors/woocommerce/functions-redux-configs.php:318
+msgid "Single Product Sidebar Layout"
+msgstr ""
+
+#: inc/vendors/woocommerce/functions-redux-configs.php:348
+msgid "Single Product Left Sidebar"
+msgstr ""
+
+#: inc/vendors/woocommerce/functions-redux-configs.php:355
+msgid "Single Product Right Sidebar"
+msgstr ""
+
+#: inc/vendors/woocommerce/functions-redux-configs.php:363
+msgid "Product Block Setting"
+msgstr ""
+
+#: inc/vendors/woocommerce/functions-redux-configs.php:368
+msgid "Show Products Releated"
+msgstr ""
+
+#: inc/vendors/woocommerce/functions-redux-configs.php:373
+msgid "Number of related products to show"
+msgstr ""
+
+#: inc/vendors/woocommerce/functions-redux-configs.php:384
+msgid "Releated Products Columns"
+msgstr ""
+
+#: inc/vendors/woocommerce/functions-redux-configs.php:393
+msgid "Show Products upsells"
+msgstr ""
+
+#: inc/vendors/woocommerce/functions-redux-configs.php:399
+msgid "Upsells Products Columns"
+msgstr ""
+
+#: inc/vendors/woocommerce/functions.php:219
+msgid "Unable to find any products that match the currenty query"
+msgstr ""
+
+#: inc/vendors/woocommerce/functions.php:221
+#: woocommerce/single-product/short-description.php:35
+msgid "View More"
+msgstr ""
+
+#: inc/vendors/woocommerce/functions.php:222
+msgid "View Less"
+msgstr ""
+
+#: inc/vendors/woocommerce/functions.php:597
+#: inc/vendors/woocommerce/functions.php:637
+msgid "Placeholder"
+msgstr ""
+
+#: inc/vendors/woocommerce/functions.php:788
+msgid "Show: %s"
+msgstr ""
+
+#: inc/vendors/woocommerce/functions.php:789
+msgid "All"
+msgstr ""
+
+#: inc/vendors/woocommerce/functions.php:926
+msgid "SOLD OUT"
+msgstr ""
+
+#: inc/widgets/custom_menu.php:7
+msgid "Apus Custom Menu Widget"
+msgstr ""
+
+#: inc/widgets/custom_menu.php:8
+msgid "Show custom menu"
+msgstr ""
+
+#: inc/widgets/custom_menu.php:44 inc/widgets/popup_newsletter.php:32
+#: inc/widgets/recent_post.php:32 inc/widgets/search.php:30
+#: inc/widgets/socials.php:43 inc/widgets/vertical_menu.php:37
+msgid "Title:"
+msgstr ""
+
+#: inc/widgets/custom_menu.php:49
+msgid "Menu:"
+msgstr ""
+
+#: inc/widgets/custom_menu.php:61
+msgid "Style:"
+msgstr ""
+
+#: inc/widgets/popup_newsletter.php:7
+msgid "Apus Popup Newsletter Widget"
+msgstr ""
+
+#: inc/widgets/popup_newsletter.php:8
+msgid "Show Popup Newsletter"
+msgstr ""
+
+#: inc/widgets/popup_newsletter.php:38
+msgid "Description:"
+msgstr ""
+
+#: inc/widgets/popup_newsletter.php:42
+msgid "Image:"
+msgstr ""
+
+#: inc/widgets/recent_post.php:7
+msgid "Apus Recent Posts Widget"
+msgstr ""
+
+#: inc/widgets/recent_post.php:8
+msgid "Show list of recent post"
+msgstr ""
+
+#: inc/widgets/recent_post.php:37 inc/widgets/search.php:35
+msgid "Type:"
+msgstr ""
+
+#: inc/widgets/recent_post.php:49
+msgid "Num Posts:"
+msgstr ""
+
+#: inc/widgets/search.php:7
+msgid "Apus Search Widget"
+msgstr ""
+
+#: inc/widgets/search.php:8
+msgid "Show search form in sidebar"
+msgstr ""
+
+#: inc/widgets/socials.php:7
+msgid "Apus Socials"
+msgstr ""
+
+#: inc/widgets/socials.php:8
+msgid "Socials for website."
+msgstr ""
+
+#: inc/widgets/socials.php:47
+msgid "Select socials:"
+msgstr ""
+
+#: inc/widgets/vertical_menu.php:7
+msgid "Apus Vertical Menu Widget"
+msgstr ""
+
+#: inc/widgets/vertical_menu.php:44
+msgid "--- Select Menu ---"
+msgstr ""
+
+#: inc/widgets/woo-layered-nav.php:18
+msgid "Display a list of attributes to filter products in your store."
+msgstr ""
+
+#: inc/widgets/woo-layered-nav.php:20
+msgid "Apus Filter Products by Attribute"
+msgstr ""
+
+#: inc/widgets/woo-layered-nav.php:74
+msgid "Attribute"
+msgstr ""
+
+#: inc/widgets/woo-layered-nav.php:80
+msgid "Query type"
+msgstr ""
+
+#: inc/widgets/woo-layered-nav.php:82
+msgid "AND"
+msgstr ""
+
+#: inc/widgets/woo-layered-nav.php:83
+msgid "OR"
+msgstr ""
+
+#: list-comments.php:17
+msgid "%1$s"
+msgstr ""
+
+#: list-comments.php:19 woocommerce/myaccount/my-address.php:47
+msgid "Edit"
+msgstr ""
+
+#: list-comments.php:23
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: list-comments.php:28
+msgid " Reply"
+msgstr ""
+
+#: page.php:60 template-posts/single/inner.php:51
+msgid "Pages:"
+msgstr ""
+
+#: page.php:64 template-posts/single/inner.php:55
+msgid "Page"
+msgstr ""
+
+#: sidebar.php:45
+msgid "Sidebar"
+msgstr ""
+
+#: template-parts/login.php:8 woocommerce/myaccount/form-login.php:38
+msgid "Username or email address"
+msgstr ""
+
+#: template-parts/login.php:12 woocommerce/myaccount/form-login.php:42
+#: woocommerce/myaccount/form-login.php:99
+msgid "Password"
+msgstr ""
+
+#: template-parts/login.php:19 woocommerce/myaccount/form-login.php:52
+msgid "Remember me"
+msgstr ""
+
+#: template-parts/login.php:25 woocommerce/myaccount/form-login.php:58
+msgid "sign in"
+msgstr ""
+
+#: template-parts/login.php:33 woocommerce/myaccount/form-login.php:55
+msgid "Lost your password?"
+msgstr ""
+
+#: template-parts/offcanvas-main-menu.php:46
+msgid "all Departments"
+msgstr ""
+
+#: template-parts/posts-releated.php:32
+msgid "Related Posts"
+msgstr ""
+
+#: template-parts/productsearchform-nocategory.php:7
+msgid "Search products here..."
+msgstr ""
+
+#: template-parts/sharebox.php:8
+msgid "Share Link:"
+msgstr ""
+
+#: template-parts/sharebox.php:11
+msgid "Share on facebook"
+msgstr ""
+
+#: template-parts/sharebox.php:18
+msgid "Share on Twitter"
+msgstr ""
+
+#: template-parts/sharebox.php:25
+msgid "Share on LinkedIn"
+msgstr ""
+
+#: template-parts/sharebox.php:32
+msgid "Share on Tumblr"
+msgstr ""
+
+#: template-parts/sharebox.php:40
+msgid "Share on Google plus"
+msgstr ""
+
+#: template-parts/sharebox.php:48
+msgid "Share on Pinterest"
+msgstr ""
+
+#: template-posts/content-none.php:13
+msgid "Oops!"
+msgstr ""
+
+#: template-posts/content-none.php:13
+msgid "Sorry, but your search returned no results!"
+msgstr ""
+
+#: template-posts/content-none.php:15
+msgid "Try again please, use the search form below."
+msgstr ""
+
+#: widgets/popup-newsletter.php:21
+msgid "Don't show this popup again"
+msgstr ""
+
+#: woocommerce/cart/cart.php:28 woocommerce/cart/cart.php:36
+#: woocommerce/cart/cart.php:44 woocommerce/checkout/form-checkout.php:21
+#: woocommerce/checkout/form-checkout.php:29
+#: woocommerce/checkout/form-checkout.php:37
+#: woocommerce/checkout/thankyou.php:27 woocommerce/checkout/thankyou.php:35
+#: woocommerce/checkout/thankyou.php:43
+msgid "<span class=\"step\">%s</span>"
+msgstr ""
+
+#: woocommerce/cart/cart.php:30 woocommerce/checkout/form-checkout.php:23
+#: woocommerce/checkout/thankyou.php:29
+msgid "Shopping Cart"
+msgstr ""
+
+#: woocommerce/cart/cart.php:38 woocommerce/cart/mini-cart.php:94
+#: woocommerce/checkout/form-checkout.php:31
+#: woocommerce/checkout/thankyou.php:37
+msgid "Checkout"
+msgstr ""
+
+#: woocommerce/cart/cart.php:46 woocommerce/checkout/form-checkout.php:39
+#: woocommerce/checkout/thankyou.php:45
+msgid "Order Completed"
+msgstr ""
+
+#: woocommerce/cart/cart.php:63
+msgid "Product Name"
+msgstr ""
+
+#: woocommerce/cart/cart.php:65 woocommerce/cart/cart.php:122
+#: woocommerce/global/quantity-input.php:32
+msgid "Quantity"
+msgstr ""
+
+#: woocommerce/cart/cart.php:66 woocommerce/cart/cart.php:139
+#: woocommerce/cart/mini-cart.php:88 woocommerce/myaccount/my-orders.php:37
+#: woocommerce/myaccount/my-orders.php:60
+msgid "Total"
+msgstr ""
+
+#: woocommerce/cart/cart.php:96
+msgid "Product"
+msgstr ""
+
+#: woocommerce/cart/cart.php:111
+msgid "Available on backorder"
+msgstr ""
+
+#: woocommerce/cart/cart.php:150 woocommerce/cart/mini-cart.php:56
+msgid "Remove this item"
+msgstr ""
+
+#: woocommerce/cart/cart.php:169
+msgid "Coupon:"
+msgstr ""
+
+#: woocommerce/cart/cart.php:169
+msgid "Coupon code"
+msgstr ""
+
+#: woocommerce/cart/cart.php:169
+msgid "Apply coupon"
+msgstr ""
+
+#: woocommerce/cart/cart.php:174
+msgid "Update cart"
+msgstr ""
+
+#: woocommerce/cart/cross-sells.php:34
+msgid "You may be interested in&hellip;"
+msgstr ""
+
+#: woocommerce/cart/mini-cart-content.php:5
+msgid "My Cart"
+msgstr ""
+
+#: woocommerce/cart/mini-cart.php:79
+msgid "Currently Empty"
+msgstr ""
+
+#: woocommerce/cart/mini-cart.php:81
+msgid "Continue shopping"
+msgstr ""
+
+#: woocommerce/cart/mini-cart.php:93
+msgid "View Cart"
+msgstr ""
+
+#: woocommerce/cart/proceed-to-checkout-button.php:26
+msgid "Proceed to Checkout"
+msgstr ""
+
+#: woocommerce/checkout/form-billing.php:25
+msgid "Billing &amp; Shipping"
+msgstr ""
+
+#: woocommerce/checkout/form-billing.php:29
+msgid "Billing details"
+msgstr ""
+
+#: woocommerce/checkout/form-billing.php:54
+msgid "Create an account?"
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:53
+msgid "You must be logged in to checkout."
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:83
+msgid "Your order"
+msgstr ""
+
+#: woocommerce/checkout/form-shipping.php:26
+#: woocommerce/myaccount/my-address.php:20
+msgid "Shipping Address"
+msgstr ""
+
+#: woocommerce/checkout/form-shipping.php:32
+msgid "Ship to a different address?"
+msgstr ""
+
+#: woocommerce/checkout/form-shipping.php:59
+msgid "Additional Information"
+msgstr ""
+
+#: woocommerce/checkout/payment.php:35
+msgid "Sorry, it seems that there are no available payment methods for your state. Please contact us if you require assistance or wish to make alternate arrangements."
+msgstr ""
+
+#: woocommerce/checkout/payment.php:35
+msgid "Please fill in your details above to see available payment methods."
+msgstr ""
+
+#. translators: $1 and $2 opening and closing emphasis tags respectively
+
+#: woocommerce/checkout/payment.php:44
+msgid "Since your browser does not support JavaScript, or it is disabled, please ensure you click the %1$sUpdate Totals%2$s button before placing your order. You may be charged more than the amount stated above if you fail to do so."
+msgstr ""
+
+#: woocommerce/checkout/payment.php:46
+msgid "Update totals"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:58
+msgid "Unfortunately your order cannot be processed as the originating bank/merchant has declined your transaction. Please attempt your purchase again."
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:61 woocommerce/myaccount/my-orders.php:70
+msgid "Pay"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:69 woocommerce/checkout/thankyou.php:107
+msgid "Thank you. Your order has been received."
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:73
+msgid "Order Number:"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:77
+msgid "Date:"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:82
+msgid "Email:"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:87
+msgid "Total:"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:92
+msgid "Payment Method:"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:111
+msgid "COUNTINUE SHOPPING"
+msgstr ""
+
+#. translators: %s: Quantity.
+
+#: woocommerce/global/quantity-input.php:28
+msgid "%s quantity"
+msgstr ""
+
+#: woocommerce/global/quantity-input.php:43
+msgctxt "Product quantity input tooltip"
+msgid "Qty"
+msgstr ""
+
+#: woocommerce/item-product/inner-deal.php:73
+#: woocommerce/item-product/inner-list.php:100
+#: woocommerce/item-product/inner-noborder.php:76
+#: woocommerce/item-product/inner.php:76
+msgid "compare"
+msgstr ""
+
+#: woocommerce/item-product/inner-list.php:101
+msgid "ADD to Compare"
+msgstr ""
+
+#: woocommerce/myaccount/form-add-payment-method.php:57
+msgid "Add payment method"
+msgstr ""
+
+#: woocommerce/myaccount/form-add-payment-method.php:63
+msgid "New payment methods can only be added during checkout. Please contact us if you require assistance."
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:21
+msgid "First name"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:25
+msgid "Last name"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:30
+msgid "Display name"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:31
+msgid "This will be how your name will be displayed in the account section and in reviews"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:34
+#: woocommerce/myaccount/form-login.php:92
+msgid "Email address"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:38
+msgid "Password Change"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:40
+msgid "Current Password (leave blank to leave unchanged)"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:44
+msgid "New Password (leave blank to leave unchanged)"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:48
+msgid "Confirm New Password"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:56
+msgid "Save changes"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:67
+msgid "OR Create an account"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:85
+msgid "Username"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:105
+msgid "A password will be sent to your email address."
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:122
+msgid "OR LOGIN"
+msgstr ""
+
+#: woocommerce/myaccount/form-lost-password.php:25
+msgid "Lost your password? Please enter your username or email address. You will receive a link to create a new password via email."
+msgstr ""
+
+#: woocommerce/myaccount/form-lost-password.php:28
+msgid "Username or email"
+msgstr ""
+
+#: woocommerce/myaccount/form-lost-password.php:38
+msgid "Reset password"
+msgstr ""
+
+#: woocommerce/myaccount/my-address.php:17
+msgid "My Addresses"
+msgstr ""
+
+#: woocommerce/myaccount/my-address.php:19
+#: woocommerce/myaccount/my-address.php:25
+msgid "Billing Address"
+msgstr ""
+
+#: woocommerce/myaccount/my-address.php:23
+msgid "My Address"
+msgstr ""
+
+#: woocommerce/myaccount/my-address.php:35
+msgid "The following addresses will be used on the checkout page by default."
+msgstr ""
+
+#: woocommerce/myaccount/my-address.php:67
+msgid "You have not set up this type of address yet."
+msgstr ""
+
+#: woocommerce/myaccount/my-orders.php:26
+msgid "Recent Orders"
+msgstr ""
+
+#: woocommerce/myaccount/my-orders.php:34
+msgid "Order"
+msgstr ""
+
+#: woocommerce/myaccount/my-orders.php:49
+msgid "Order Number"
+msgstr ""
+
+#: woocommerce/myaccount/my-orders.php:61
+msgid "%s for %s item"
+msgid_plural "%s for %s items"
+msgstr[0] ""
+msgstr[1] ""
+
+#: woocommerce/myaccount/my-orders.php:77
+msgid "Cancel"
+msgstr ""
+
+#: woocommerce/products-recent-viewed.php:21
+#: woocommerce/products-recent-viewed.php:45
+msgid "Recently Viewed Products"
+msgstr ""
+
+#: woocommerce/single-product/countdown.php:9
+msgid "Start for you in: "
+msgstr ""
+
+#: woocommerce/single-product/meta.php:35
+msgid "SKU:"
+msgstr ""
+
+#: woocommerce/single-product/meta.php:39
+msgid "Category:"
+msgid_plural "Categories:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: woocommerce/single-product/meta.php:41
+msgid "<span class=\"sub_title\">Tag:</span>"
+msgid_plural "<span class=\"sub_title\">Tags:</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: woocommerce/single-product/product-image-carousel.php:42
+#: woocommerce/single-product/product-image.php:42
+msgid "Watch video"
+msgstr ""
+
+#: woocommerce/single-product/product-image-carousel.php:56
+#: woocommerce/single-product/product-image-carousel.php:83
+#: woocommerce/single-product/product-image.php:56
+#: woocommerce/single-product/product-image.php:77
+msgid "Awaiting product image"
+msgstr ""
+
+#: woocommerce/single-product/rating.php:36
+msgid "%s"
+msgid_plural "%s <span class=\"text-customer\">customer reviews</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: woocommerce/single-product/related.php:45
+msgid "Related Products"
+msgstr ""
+
+#: woocommerce/single-product/review.php:36
+msgid "Your comment is awaiting approval"
+msgstr ""
+
+#: woocommerce/single-product/review.php:42
+msgid "verified owner"
+msgstr ""
+
+#: woocommerce/single-product/tabs/description.php:24
+msgid "Product Description"
+msgstr ""
+
+#: woocommerce/single-product/up-sells.php:42
+msgid "Up-Sells Products"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:48
+msgid "There are no reviews yet."
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:62
+msgid "Add a review"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:62
+msgid "Be the first to review &ldquo;%s&rdquo;"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:63
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:70
+msgid "Email"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:72
+msgid "submit review"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:78
+msgid "You must be <a href=\"%s\">logged in</a> to post a review."
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:83
+msgid "Your Rating"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:84
+msgid "Rate&hellip;"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:85
+msgid "Perfect"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:86
+msgid "Good"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:87
+msgid "Average"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:88
+msgid "Not that bad"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:89
+msgid "Very Poor"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:93
+msgid "Message"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:102
+msgid "Only logged in customers who have purchased this product may leave a review."
+msgstr ""
+
+#: woocommerce/wishlist-view-mobile.php:122
+msgid "Added on:"
+msgstr ""
+
+#: woocommerce/wishlist-view-mobile.php:133
+msgid "Price:"
+msgstr ""
+
+#: woocommerce/wishlist-view-mobile.php:158
+msgid "Quantity:"
+msgstr ""
+
+#: woocommerce/wishlist-view-mobile.php:173
+msgid "Stock:"
+msgstr ""
+
+#: woocommerce/wishlist-view-mobile.php:176
+msgid "Out of stock"
+msgstr ""
+
+#: woocommerce/wishlist-view-mobile.php:176
+msgid "In Stock"
+msgstr ""
+
+#: woocommerce/wishlist-view-mobile.php:195
+msgid "Move"
+msgstr ""
+
+#: woocommerce/wishlist-view-mobile.php:214
+msgid "Move to another list &rsaquo;"
+msgstr ""
+
+#: woocommerce/wishlist-view-mobile.php:222
+msgid "Remove this product"
+msgstr ""
+
+#: woocommerce/wishlist-view-mobile.php:236
+msgid "No products added to the wishlist"
+msgstr ""
+#. Theme Name of the plugin/theme
+msgid "Ogami"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "https://apusthemes.com/ogami"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Ogami is clean theme, it's used Apus Framework."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "ApusTheme"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://apusthemes.com/"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "404 Page"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Page Default"
+msgstr ""
